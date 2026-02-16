@@ -1,0 +1,938 @@
+[
+  {
+    "title": "Suspected cancer: recognition and referral",
+    "url": "https://www.nice.org.uk/guidance/ng12",
+    "id": "NG12",
+    "published": "23 June 2015"
+  },
+  {
+    "title": "Child maltreatment: when to suspect maltreatment in under 18s",
+    "url": "https://www.nice.org.uk/guidance/cg89",
+    "id": "CG89",
+    "published": "22 July 2009"
+  },
+  {
+    "title": "Suspected sepsis in people aged 16 or over: recognition, assessment and early management",
+    "url": "https://www.nice.org.uk/guidance/ng253",
+    "id": "NG253",
+    "published": "19 November 2025"
+  },
+  {
+    "title": "Suspected sepsis in under 16s: recognition, diagnosis and early management",
+    "url": "https://www.nice.org.uk/guidance/ng254",
+    "id": "NG254",
+    "published": "19 November 2025"
+  },
+  {
+    "title": "Suspected sepsis in pregnant or recently pregnant people: recognition, diagnosis and early management",
+    "url": "https://www.nice.org.uk/guidance/ng255",
+    "id": "NG255",
+    "published": "19 November 2025"
+  },
+  {
+    "title": "Chronic heart failure in adults: diagnosis and management",
+    "url": "https://www.nice.org.uk/guidance/ng106",
+    "id": "NG106",
+    "published": "12 September 2018"
+  },
+  {
+    "title": "Suspected acute respiratory infection in over 16s: assessment at first presentation and initial management",
+    "url": "https://www.nice.org.uk/guidance/ng237",
+    "id": "NG237",
+    "published": "31 October 2023"
+  },
+  {
+    "title": "Pneumonia: diagnosis and management",
+    "url": "https://www.nice.org.uk/guidance/ng250",
+    "id": "NG250",
+    "published": "2 September 2025"
+  },
+  {
+    "title": "Falls: assessment and prevention in older people and in people 50 and over at higher risk",
+    "url": "https://www.nice.org.uk/guidance/ng249",
+    "id": "NG249",
+    "published": "29 April 2025"
+  },
+  {
+    "title": "Early and locally advanced breast cancer: diagnosis and management",
+    "url": "https://www.nice.org.uk/guidance/ng101",
+    "id": "NG101",
+    "published": "18 July 2018"
+  },
+  {
+    "title": "Advanced breast cancer: diagnosis and treatment",
+    "url": "https://www.nice.org.uk/guidance/cg81",
+    "id": "CG81",
+    "published": "23 February 2009"
+  },
+  {
+    "title": "Epilepsies in children, young people and adults",
+    "url": "https://www.nice.org.uk/guidance/ng217",
+    "id": "NG217",
+    "published": "27 April 2022"
+  },
+  {
+    "title": "Maternal and child nutrition: nutrition and weight management in pregnancy, and nutrition in children up to 5 years",
+    "url": "https://www.nice.org.uk/guidance/ng247",
+    "id": "NG247",
+    "published": "15 January 2025"
+  },
+  {
+    "title": "Urinary tract infection (recurrent): antimicrobial prescribing",
+    "url": "https://www.nice.org.uk/guidance/ng112",
+    "id": "NG112",
+    "published": "31 October 2018"
+  },
+  {
+    "title": "Asthma pathway (BTS, NICE, SIGN)",
+    "url": "https://www.nice.org.uk/guidance/ng244",
+    "id": "NG244",
+    "published": "27 November 2024"
+  },
+  {
+    "title": "Asthma: diagnosis, monitoring and chronic asthma management (BTS, NICE, SIGN)",
+    "url": "https://www.nice.org.uk/guidance/ng245",
+    "id": "NG245",
+    "published": "27 November 2024"
+  },
+  {
+    "title": "Acute kidney injury: prevention, detection and management",
+    "url": "https://www.nice.org.uk/guidance/ng148",
+    "id": "NG148",
+    "published": "18 December 2019"
+  },
+  {
+    "title": "Adrenal insufficiency: identification and management",
+    "url": "https://www.nice.org.uk/guidance/ng243",
+    "id": "NG243",
+    "published": "28 August 2024"
+  },
+  {
+    "title": "Twin and triplet pregnancy",
+    "url": "https://www.nice.org.uk/guidance/ng137",
+    "id": "NG137",
+    "published": "4 September 2019"
+  },
+  {
+    "title": "Ovarian cancer: identifying and managing familial and genetic risk",
+    "url": "https://www.nice.org.uk/guidance/ng241",
+    "id": "NG241",
+    "published": "21 March 2024"
+  },
+  {
+    "title": "Meningitis (bacterial) and meningococcal disease: recognition, diagnosis and management",
+    "url": "https://www.nice.org.uk/guidance/ng240",
+    "id": "NG240",
+    "published": "19 March 2024"
+  },
+  {
+    "title": "Neonatal infection: antibiotics for prevention and treatment",
+    "url": "https://www.nice.org.uk/guidance/ng195",
+    "id": "NG195",
+    "published": "20 April 2021"
+  },
+  {
+    "title": "Lung cancer: diagnosis and management",
+    "url": "https://www.nice.org.uk/guidance/ng122",
+    "id": "NG122",
+    "published": "28 March 2019"
+  },
+  {
+    "title": "Transient loss of consciousness ('blackouts') in over 16s",
+    "url": "https://www.nice.org.uk/guidance/cg109",
+    "id": "CG109",
+    "published": "25 August 2010"
+  },
+  {
+    "title": "Familial breast cancer: classification, care and managing breast cancer and related risks in people with a family history of breast cancer",
+    "url": "https://www.nice.org.uk/guidance/cg164",
+    "id": "CG164",
+    "published": "25 June 2013"
+  },
+  {
+    "title": "Stroke rehabilitation in adults",
+    "url": "https://www.nice.org.uk/guidance/ng236",
+    "id": "NG236",
+    "published": "18 October 2023"
+  },
+  {
+    "title": "Ovarian cancer: recognition and initial management",
+    "url": "https://www.nice.org.uk/guidance/cg122",
+    "id": "CG122",
+    "published": "27 April 2011"
+  },
+  {
+    "title": "Urinary incontinence in neurological disease: assessment and management",
+    "url": "https://www.nice.org.uk/guidance/cg148",
+    "id": "CG148",
+    "published": "8 August 2012"
+  },
+  {
+    "title": "Ectopic pregnancy and miscarriage: diagnosis and initial management",
+    "url": "https://www.nice.org.uk/guidance/ng126",
+    "id": "NG126",
+    "published": "17 April 2019"
+  },
+  {
+    "title": "Oesophago-gastric cancer: assessment and management in adults",
+    "url": "https://www.nice.org.uk/guidance/ng83",
+    "id": "NG83",
+    "published": "24 January 2018"
+  },
+  {
+    "title": "Head injury: assessment and early management",
+    "url": "https://www.nice.org.uk/guidance/ng232",
+    "id": "NG232",
+    "published": "18 May 2023"
+  },
+  {
+    "title": "Diabetes (type 1 and type 2) in children and young people: diagnosis and management",
+    "url": "https://www.nice.org.uk/guidance/ng18",
+    "id": "NG18",
+    "published": "1 August 2015"
+  },
+  {
+    "title": "Hypertension in pregnancy: diagnosis and management",
+    "url": "https://www.nice.org.uk/guidance/ng133",
+    "id": "NG133",
+    "published": "25 June 2019"
+  },
+  {
+    "title": "Delirium: prevention, diagnosis and management in hospital and long-term care",
+    "url": "https://www.nice.org.uk/guidance/cg103",
+    "id": "CG103",
+    "published": "28 July 2010"
+  },
+  {
+    "title": "Disabled children and young people up to 25 with severe complex needs: integrated service delivery and organisation across health, social care and education",
+    "url": "https://www.nice.org.uk/guidance/ng213",
+    "id": "NG213",
+    "published": "9 March 2022"
+  },
+  {
+    "title": "Hip fracture: management",
+    "url": "https://www.nice.org.uk/guidance/cg124",
+    "id": "CG124",
+    "published": "22 June 2011"
+  },
+  {
+    "title": "Thyroid cancer: assessment and management",
+    "url": "https://www.nice.org.uk/guidance/ng230",
+    "id": "NG230",
+    "published": "19 December 2022"
+  },
+  {
+    "title": "Fractures (complex): assessment and management",
+    "url": "https://www.nice.org.uk/guidance/ng37",
+    "id": "NG37",
+    "published": "17 February 2016"
+  },
+  {
+    "title": "Colorectal cancer prevention: colonoscopic surveillance in adults with ulcerative colitis, Crohn's disease or adenomas",
+    "url": "https://www.nice.org.uk/guidance/cg118",
+    "id": "CG118",
+    "published": "23 March 2011"
+  },
+  {
+    "title": "Self-harm: assessment, management and preventing recurrence",
+    "url": "https://www.nice.org.uk/guidance/ng225",
+    "id": "NG225",
+    "published": "7 September 2022"
+  },
+  {
+    "title": "Type 1 diabetes in adults: diagnosis and management",
+    "url": "https://www.nice.org.uk/guidance/ng17",
+    "id": "NG17",
+    "published": "26 August 2015"
+  },
+  {
+    "title": "Urinary tract infection in under 16s: diagnosis and management",
+    "url": "https://www.nice.org.uk/guidance/ng224",
+    "id": "NG224",
+    "published": "27 July 2022"
+  },
+  {
+    "title": "Type 2 diabetes in adults: management",
+    "url": "https://www.nice.org.uk/guidance/ng28",
+    "id": "NG28",
+    "published": "2 December 2015"
+  },
+  {
+    "title": "Reducing sexually transmitted infections",
+    "url": "https://www.nice.org.uk/guidance/ng221",
+    "id": "NG221",
+    "published": "15 June 2022"
+  },
+  {
+    "title": "Stroke and transient ischaemic attack in over 16s: diagnosis and initial management",
+    "url": "https://www.nice.org.uk/guidance/ng128",
+    "id": "NG128",
+    "published": "1 May 2019"
+  },
+  {
+    "title": "Otitis media (acute): antimicrobial prescribing",
+    "url": "https://www.nice.org.uk/guidance/ng91",
+    "id": "NG91",
+    "published": "28 March 2018"
+  },
+  {
+    "title": "Rehabilitation after traumatic injury",
+    "url": "https://www.nice.org.uk/guidance/ng211",
+    "id": "NG211",
+    "published": "18 January 2022"
+  },
+  {
+    "title": "Prostate cancer: diagnosis and management",
+    "url": "https://www.nice.org.uk/guidance/ng131",
+    "id": "NG131",
+    "published": "9 May 2019"
+  },
+  {
+    "title": "Colorectal cancer",
+    "url": "https://www.nice.org.uk/guidance/ng151",
+    "id": "NG151",
+    "published": "29 January 2020"
+  },
+  {
+    "title": "Fever in under 5s: assessment and initial management",
+    "url": "https://www.nice.org.uk/guidance/ng143",
+    "id": "NG143",
+    "published": "7 November 2019"
+  },
+  {
+    "title": "Chronic kidney disease: assessment and management",
+    "url": "https://www.nice.org.uk/guidance/ng203",
+    "id": "NG203",
+    "published": "25 August 2021"
+  },
+  {
+    "title": "Acute heart failure: diagnosis and management",
+    "url": "https://www.nice.org.uk/guidance/cg187",
+    "id": "CG187",
+    "published": "8 October 2014"
+  },
+  {
+    "title": "Heart valve disease presenting in adults: investigation and management",
+    "url": "https://www.nice.org.uk/guidance/ng208",
+    "id": "NG208",
+    "published": "17 November 2021"
+  },
+  {
+    "title": "Looked-after children and young people",
+    "url": "https://www.nice.org.uk/guidance/ng205",
+    "id": "NG205",
+    "published": "20 October 2021"
+  },
+  {
+    "title": "Babies, children and young people's experience of healthcare",
+    "url": "https://www.nice.org.uk/guidance/ng204",
+    "id": "NG204",
+    "published": "25 August 2021"
+  },
+  {
+    "title": "Bronchiolitis in children: diagnosis and management",
+    "url": "https://www.nice.org.uk/guidance/ng9",
+    "id": "NG9",
+    "published": "1 June 2015"
+  },
+  {
+    "title": "Clostridioides difficile infection: antimicrobial prescribing",
+    "url": "https://www.nice.org.uk/guidance/ng199",
+    "id": "NG199",
+    "published": "23 July 2021"
+  },
+  {
+    "title": "Atrial fibrillation: diagnosis and management",
+    "url": "https://www.nice.org.uk/guidance/ng196",
+    "id": "NG196",
+    "published": "27 April 2021"
+  },
+  {
+    "title": "Autism spectrum disorder in adults: diagnosis and management",
+    "url": "https://www.nice.org.uk/guidance/cg142",
+    "id": "CG142",
+    "published": "27 June 2012"
+  },
+  {
+    "title": "Autism spectrum disorder in under 19s: support and management",
+    "url": "https://www.nice.org.uk/guidance/cg170",
+    "id": "CG170",
+    "published": "28 August 2013"
+  },
+  {
+    "title": "Chronic pain (primary and secondary) in over 16s: assessment of all chronic pain and management of chronic primary pain",
+    "url": "https://www.nice.org.uk/guidance/ng193",
+    "id": "NG193",
+    "published": "7 April 2021"
+  },
+  {
+    "title": "Secondary bacterial infection of eczema and other common skin conditions: antimicrobial prescribing",
+    "url": "https://www.nice.org.uk/guidance/ng190",
+    "id": "NG190",
+    "published": "2 March 2021"
+  },
+  {
+    "title": "Safeguarding adults in care homes",
+    "url": "https://www.nice.org.uk/guidance/ng189",
+    "id": "NG189",
+    "published": "26 February 2021"
+  },
+  {
+    "title": "Diabetes in pregnancy: management from preconception to the postnatal period",
+    "url": "https://www.nice.org.uk/guidance/ng3",
+    "id": "NG3",
+    "published": "25 February 2015"
+  },
+  {
+    "title": "Low back pain and sciatica in over 16s: assessment and management",
+    "url": "https://www.nice.org.uk/guidance/ng59",
+    "id": "NG59",
+    "published": "30 November 2016"
+  },
+  {
+    "title": "Acute coronary syndromes",
+    "url": "https://www.nice.org.uk/guidance/ng185",
+    "id": "NG185",
+    "published": "18 November 2020"
+  },
+  {
+    "title": "Neuropathic pain in adults: pharmacological management in non-specialist settings",
+    "url": "https://www.nice.org.uk/guidance/cg173",
+    "id": "CG173",
+    "published": "20 November 2013"
+  },
+  {
+    "title": "Anaphylaxis: assessment and referral after emergency treatment",
+    "url": "https://www.nice.org.uk/guidance/cg134",
+    "id": "CG134",
+    "published": "14 December 2011"
+  },
+  {
+    "title": "Surgical site infections: prevention and treatment",
+    "url": "https://www.nice.org.uk/guidance/ng125",
+    "id": "NG125",
+    "published": "11 April 2019"
+  },
+  {
+    "title": "Rehabilitation for adults with complex psychosis",
+    "url": "https://www.nice.org.uk/guidance/ng181",
+    "id": "NG181",
+    "published": "19 August 2020"
+  },
+  {
+    "title": "Intravenous fluid therapy in children and young people in hospital",
+    "url": "https://www.nice.org.uk/guidance/ng29",
+    "id": "NG29",
+    "published": "9 December 2015"
+  },
+  {
+    "title": "Neonatal parenteral nutrition",
+    "url": "https://www.nice.org.uk/guidance/ng154",
+    "id": "NG154",
+    "published": "26 February 2020"
+  },
+  {
+    "title": "Antenatal and postnatal mental health: clinical management and service guidance",
+    "url": "https://www.nice.org.uk/guidance/cg192",
+    "id": "CG192",
+    "published": "17 December 2014"
+  },
+  {
+    "title": "Leg ulcer infection: antimicrobial prescribing",
+    "url": "https://www.nice.org.uk/guidance/ng152",
+    "id": "NG152",
+    "published": "11 February 2020"
+  },
+  {
+    "title": "Gastro-oesophageal reflux disease in children and young people: diagnosis and management",
+    "url": "https://www.nice.org.uk/guidance/ng1",
+    "id": "NG1",
+    "published": "14 January 2015"
+  },
+  {
+    "title": "Venous thromboembolism in over 16s: reducing the risk of hospital-acquired deep vein thrombosis or pulmonary embolism",
+    "url": "https://www.nice.org.uk/guidance/ng89",
+    "id": "NG89",
+    "published": "21 March 2018"
+  },
+  {
+    "title": "Alcohol interventions in secondary and further education",
+    "url": "https://www.nice.org.uk/guidance/ng135",
+    "id": "NG135",
+    "published": "12 August 2019"
+  },
+  {
+    "title": "End of life care for infants, children and young people with life-limiting conditions: planning and management",
+    "url": "https://www.nice.org.uk/guidance/ng61",
+    "id": "NG61",
+    "published": "7 December 2016"
+  },
+  {
+    "title": "Depression in children and young people: identification and management",
+    "url": "https://www.nice.org.uk/guidance/ng134",
+    "id": "NG134",
+    "published": "25 June 2019"
+  },
+  {
+    "title": "Urinary incontinence and pelvic organ prolapse in women: management",
+    "url": "https://www.nice.org.uk/guidance/ng123",
+    "id": "NG123",
+    "published": "2 April 2019"
+  },
+  {
+    "title": "Hyperparathyroidism (primary): diagnosis, assessment and initial management",
+    "url": "https://www.nice.org.uk/guidance/ng132",
+    "id": "NG132",
+    "published": "23 May 2019"
+  },
+  {
+    "title": "Intrapartum care for women with existing medical conditions or obstetric complications and their babies",
+    "url": "https://www.nice.org.uk/guidance/ng121",
+    "id": "NG121",
+    "published": "6 March 2019"
+  },
+  {
+    "title": "Specialist neonatal respiratory care for babies born preterm",
+    "url": "https://www.nice.org.uk/guidance/ng124",
+    "id": "NG124",
+    "published": "3 April 2019"
+  },
+  {
+    "title": "Cough (acute): antimicrobial prescribing",
+    "url": "https://www.nice.org.uk/guidance/ng120",
+    "id": "NG120",
+    "published": "7 February 2019"
+  },
+  {
+    "title": "Renal and ureteric stones: assessment and management",
+    "url": "https://www.nice.org.uk/guidance/ng118",
+    "id": "NG118",
+    "published": "8 January 2019"
+  },
+  {
+    "title": "Bronchiectasis (non-cystic fibrosis), acute exacerbation: antimicrobial prescribing",
+    "url": "https://www.nice.org.uk/guidance/ng117",
+    "id": "NG117",
+    "published": "18 December 2018"
+  },
+  {
+    "title": "Post-traumatic stress disorder",
+    "url": "https://www.nice.org.uk/guidance/ng116",
+    "id": "NG116",
+    "published": "5 December 2018"
+  },
+  {
+    "title": "Chronic obstructive pulmonary disease (acute exacerbation): antimicrobial prescribing",
+    "url": "https://www.nice.org.uk/guidance/ng114",
+    "id": "NG114",
+    "published": "5 December 2018"
+  },
+  {
+    "title": "Urinary tract infection (catheter-associated): antimicrobial prescribing",
+    "url": "https://www.nice.org.uk/guidance/ng113",
+    "id": "NG113",
+    "published": "23 November 2018"
+  },
+  {
+    "title": "Urinary tract infection (lower): antimicrobial prescribing",
+    "url": "https://www.nice.org.uk/guidance/ng109",
+    "id": "NG109",
+    "published": "31 October 2018"
+  },
+  {
+    "title": "Prostatitis (acute): antimicrobial prescribing",
+    "url": "https://www.nice.org.uk/guidance/ng110",
+    "id": "NG110",
+    "published": "31 October 2018"
+  },
+  {
+    "title": "Pyelonephritis (acute): antimicrobial prescribing",
+    "url": "https://www.nice.org.uk/guidance/ng111",
+    "id": "NG111",
+    "published": "31 October 2018"
+  },
+  {
+    "title": "Renal replacement therapy and conservative management",
+    "url": "https://www.nice.org.uk/guidance/ng107",
+    "id": "NG107",
+    "published": "3 October 2018"
+  },
+  {
+    "title": "Preventing suicide in community and custodial settings",
+    "url": "https://www.nice.org.uk/guidance/ng105",
+    "id": "NG105",
+    "published": "10 September 2018"
+  },
+  {
+    "title": "Dementia: assessment, management and support for people living with dementia and their carers",
+    "url": "https://www.nice.org.uk/guidance/ng97",
+    "id": "NG97",
+    "published": "20 June 2018"
+  },
+  {
+    "title": "Cancer of the upper aerodigestive tract: assessment and management in people aged 16 or over",
+    "url": "https://www.nice.org.uk/guidance/ng36",
+    "id": "NG36",
+    "published": "10 February 2016"
+  },
+  {
+    "title": "Emergency and acute medical care in over 16s: service delivery and organisation",
+    "url": "https://www.nice.org.uk/guidance/ng94",
+    "id": "NG94",
+    "published": "28 March 2018"
+  },
+  {
+    "title": "Pancreatic cancer in adults: diagnosis and management",
+    "url": "https://www.nice.org.uk/guidance/ng85",
+    "id": "NG85",
+    "published": "7 February 2018"
+  },
+  {
+    "title": "Sore throat (acute): antimicrobial prescribing",
+    "url": "https://www.nice.org.uk/guidance/ng84",
+    "id": "NG84",
+    "published": "26 January 2018"
+  },
+  {
+    "title": "Autism spectrum disorder in under 19s: recognition, referral and diagnosis",
+    "url": "https://www.nice.org.uk/guidance/cg128",
+    "id": "CG128",
+    "published": "28 September 2011"
+  },
+  {
+    "title": "Sinusitis (acute): antimicrobial prescribing",
+    "url": "https://www.nice.org.uk/guidance/ng79",
+    "id": "NG79",
+    "published": "27 October 2017"
+  },
+  {
+    "title": "Child abuse and neglect",
+    "url": "https://www.nice.org.uk/guidance/ng76",
+    "id": "NG76",
+    "published": "9 October 2017"
+  },
+  {
+    "title": "Faltering growth: recognition and management of faltering growth in children",
+    "url": "https://www.nice.org.uk/guidance/ng75",
+    "id": "NG75",
+    "published": "27 September 2017"
+  },
+  {
+    "title": "Type 2 diabetes: prevention in people at high risk",
+    "url": "https://www.nice.org.uk/guidance/ph38",
+    "id": "PH38",
+    "published": "12 July 2012"
+  },
+  {
+    "title": "Developmental follow-up of children and young people born preterm",
+    "url": "https://www.nice.org.uk/guidance/ng72",
+    "id": "NG72",
+    "published": "9 August 2017"
+  },
+  {
+    "title": "Constipation in children and young people: diagnosis and management",
+    "url": "https://www.nice.org.uk/guidance/cg99",
+    "id": "CG99",
+    "published": "26 May 2010"
+  },
+  {
+    "title": "Air pollution: outdoor air quality and health",
+    "url": "https://www.nice.org.uk/guidance/ng70",
+    "id": "NG70",
+    "published": "30 June 2017"
+  },
+  {
+    "title": "Antisocial behaviour and conduct disorders in children and young people: recognition and management",
+    "url": "https://www.nice.org.uk/guidance/cg158",
+    "id": "CG158",
+    "published": "27 March 2013"
+  },
+  {
+    "title": "Alcohol-use disorders: diagnosis and management of physical complications",
+    "url": "https://www.nice.org.uk/guidance/cg100",
+    "id": "CG100",
+    "published": "2 June 2010"
+  },
+  {
+    "title": "Sexually transmitted infections: condom distribution schemes",
+    "url": "https://www.nice.org.uk/guidance/ng68",
+    "id": "NG68",
+    "published": "6 April 2017"
+  },
+  {
+    "title": "Mental health of adults in contact with the criminal justice system",
+    "url": "https://www.nice.org.uk/guidance/ng66",
+    "id": "NG66",
+    "published": "21 March 2017"
+  },
+  {
+    "title": "Drug misuse prevention: targeted interventions",
+    "url": "https://www.nice.org.uk/guidance/ng64",
+    "id": "NG64",
+    "published": "22 February 2017"
+  },
+  {
+    "title": "Healthcare-associated infections: prevention and control in primary and community care",
+    "url": "https://www.nice.org.uk/guidance/cg139",
+    "id": "CG139",
+    "published": "28 March 2012"
+  },
+  {
+    "title": "Osteoporosis: assessing the risk of fragility fracture",
+    "url": "https://www.nice.org.uk/guidance/cg146",
+    "id": "CG146",
+    "published": "8 August 2012"
+  },
+  {
+    "title": "Recent-onset chest pain of suspected cardiac origin: assessment and diagnosis",
+    "url": "https://www.nice.org.uk/guidance/cg95",
+    "id": "CG95",
+    "published": "24 March 2010"
+  },
+  {
+    "title": "Psychosis and schizophrenia in children and young people: recognition and management",
+    "url": "https://www.nice.org.uk/guidance/cg155",
+    "id": "CG155",
+    "published": "23 January 2013"
+  },
+  {
+    "title": "Harmful sexual behaviour among children and young people",
+    "url": "https://www.nice.org.uk/guidance/ng55",
+    "id": "NG55",
+    "published": "20 September 2016"
+  },
+  {
+    "title": "Mental health problems in people with learning disabilities: prevention, assessment and management",
+    "url": "https://www.nice.org.uk/guidance/ng54",
+    "id": "NG54",
+    "published": "14 September 2016"
+  },
+  {
+    "title": "Transition between inpatient mental health settings and community or care home settings",
+    "url": "https://www.nice.org.uk/guidance/ng53",
+    "id": "NG53",
+    "published": "30 August 2016"
+  },
+  {
+    "title": "Acute upper gastrointestinal bleeding in over 16s: management",
+    "url": "https://www.nice.org.uk/guidance/cg141",
+    "id": "CG141",
+    "published": "13 June 2012"
+  },
+  {
+    "title": "Palliative care for adults: strong opioids for pain relief",
+    "url": "https://www.nice.org.uk/guidance/cg140",
+    "id": "CG140",
+    "published": "23 May 2012"
+  },
+  {
+    "title": "Prophylaxis against infective endocarditis: antimicrobial prophylaxis against infective endocarditis in adults and children undergoing interventional procedures",
+    "url": "https://www.nice.org.uk/guidance/cg64",
+    "id": "CG64",
+    "published": "17 March 2008"
+  },
+  {
+    "title": "Non-alcoholic fatty liver disease (NAFLD): assessment and management",
+    "url": "https://www.nice.org.uk/guidance/ng49",
+    "id": "NG49",
+    "published": "6 July 2016"
+  },
+  {
+    "title": "Haematological cancers: improving outcomes",
+    "url": "https://www.nice.org.uk/guidance/ng47",
+    "id": "NG47",
+    "published": "25 May 2016"
+  },
+  {
+    "title": "Routine preoperative tests for elective surgery",
+    "url": "https://www.nice.org.uk/guidance/ng45",
+    "id": "NG45",
+    "published": "5 April 2016"
+  },
+  {
+    "title": "Transition from children's to adults' services for young people using health or social care services",
+    "url": "https://www.nice.org.uk/guidance/ng43",
+    "id": "NG43",
+    "published": "24 February 2016"
+  },
+  {
+    "title": "Fractures (non-complex): assessment and management",
+    "url": "https://www.nice.org.uk/guidance/ng38",
+    "id": "NG38",
+    "published": "17 February 2016"
+  },
+  {
+    "title": "Major trauma: assessment and initial management",
+    "url": "https://www.nice.org.uk/guidance/ng39",
+    "id": "NG39",
+    "published": "17 February 2016"
+  },
+  {
+    "title": "Major trauma: service delivery",
+    "url": "https://www.nice.org.uk/guidance/ng40",
+    "id": "NG40",
+    "published": "17 February 2016"
+  },
+  {
+    "title": "Spinal injury: assessment and initial management",
+    "url": "https://www.nice.org.uk/guidance/ng41",
+    "id": "NG41",
+    "published": "17 February 2016"
+  },
+  {
+    "title": "Skin cancer prevention",
+    "url": "https://www.nice.org.uk/guidance/ph32",
+    "id": "PH32",
+    "published": "26 January 2011"
+  },
+  {
+    "title": "Children's attachment: attachment in children and young people who are adopted from care, in care or at high risk of going into care",
+    "url": "https://www.nice.org.uk/guidance/ng26",
+    "id": "NG26",
+    "published": "25 November 2015"
+  },
+  {
+    "title": "Dementia, disability and frailty in later life \u2013 mid-life approaches to delay or prevent onset",
+    "url": "https://www.nice.org.uk/guidance/ng16",
+    "id": "NG16",
+    "published": "20 October 2015"
+  },
+  {
+    "title": "Lower urinary tract symptoms in men: management",
+    "url": "https://www.nice.org.uk/guidance/cg97",
+    "id": "CG97",
+    "published": "23 May 2010"
+  },
+  {
+    "title": "Violence and aggression: short-term management in mental health, health and community settings",
+    "url": "https://www.nice.org.uk/guidance/ng10",
+    "id": "NG10",
+    "published": "28 May 2015"
+  },
+  {
+    "title": "Bladder cancer: diagnosis and management",
+    "url": "https://www.nice.org.uk/guidance/ng2",
+    "id": "NG2",
+    "published": "25 February 2015"
+  },
+  {
+    "title": "Alcohol-use disorders: diagnosis, assessment and management of harmful drinking (high-risk drinking) and alcohol dependence",
+    "url": "https://www.nice.org.uk/guidance/cg115",
+    "id": "CG115",
+    "published": "23 February 2011"
+  },
+  {
+    "title": "Safe staffing for nursing in adult inpatient wards in acute hospitals",
+    "url": "https://www.nice.org.uk/guidance/sg1",
+    "id": "SG1",
+    "published": "15 July 2014"
+  },
+  {
+    "title": "Psychosis and schizophrenia in adults: prevention and management",
+    "url": "https://www.nice.org.uk/guidance/cg178",
+    "id": "CG178",
+    "published": "12 February 2014"
+  },
+  {
+    "title": "Domestic violence and abuse: multi-agency working",
+    "url": "https://www.nice.org.uk/guidance/ph50",
+    "id": "PH50",
+    "published": "26 February 2014"
+  },
+  {
+    "title": "Hepatitis B and C testing: people at risk of infection",
+    "url": "https://www.nice.org.uk/guidance/ph43",
+    "id": "PH43",
+    "published": "12 December 2012"
+  },
+  {
+    "title": "Neutropenic sepsis: prevention and management in people with cancer",
+    "url": "https://www.nice.org.uk/guidance/cg151",
+    "id": "CG151",
+    "published": "19 September 2012"
+  },
+  {
+    "title": "Sickle cell disease: managing acute painful episodes in hospital",
+    "url": "https://www.nice.org.uk/guidance/cg143",
+    "id": "CG143",
+    "published": "27 June 2012"
+  },
+  {
+    "title": "Service user experience in adult mental health: improving the experience of care for people using adult NHS mental health services",
+    "url": "https://www.nice.org.uk/guidance/cg136",
+    "id": "CG136",
+    "published": "14 December 2011"
+  },
+  {
+    "title": "Healthcare-associated infections: prevention and control",
+    "url": "https://www.nice.org.uk/guidance/ph36",
+    "id": "PH36",
+    "published": "11 November 2011"
+  },
+  {
+    "title": "Type 2 diabetes prevention: population and community-level interventions",
+    "url": "https://www.nice.org.uk/guidance/ph35",
+    "id": "PH35",
+    "published": "10 May 2011"
+  },
+  {
+    "title": "Coexisting severe mental illness (psychosis) and substance misuse: assessment and management in healthcare settings",
+    "url": "https://www.nice.org.uk/guidance/cg120",
+    "id": "CG120",
+    "published": "23 March 2011"
+  },
+  {
+    "title": "Sedation in under 19s: using sedation for diagnostic and therapeutic procedures",
+    "url": "https://www.nice.org.uk/guidance/cg112",
+    "id": "CG112",
+    "published": "15 December 2010"
+  },
+  {
+    "title": "Pregnancy and complex social factors: a model for service provision for pregnant women with complex social factors",
+    "url": "https://www.nice.org.uk/guidance/cg110",
+    "id": "CG110",
+    "published": "22 September 2010"
+  },
+  {
+    "title": "Alcohol-use disorders: prevention",
+    "url": "https://www.nice.org.uk/guidance/ph24",
+    "id": "PH24",
+    "published": "2 June 2010"
+  },
+  {
+    "title": "Physical activity for children and young people",
+    "url": "https://www.nice.org.uk/guidance/ph17",
+    "id": "PH17",
+    "published": "28 January 2009"
+  },
+  {
+    "title": "Acutely ill adults in hospital: recognising and responding to deterioration",
+    "url": "https://www.nice.org.uk/guidance/cg50",
+    "id": "CG50",
+    "published": "25 July 2007"
+  },
+  {
+    "title": "Drug misuse in over 16s: opioid detoxification",
+    "url": "https://www.nice.org.uk/guidance/cg52",
+    "id": "CG52",
+    "published": "25 July 2007"
+  },
+  {
+    "title": "Drug misuse in over 16s: psychosocial interventions",
+    "url": "https://www.nice.org.uk/guidance/cg51",
+    "id": "CG51",
+    "published": "25 July 2007"
+  },
+  {
+    "title": "Improving outcomes in children and young people with cancer",
+    "url": "https://www.nice.org.uk/guidance/csg7",
+    "id": "CSG7",
+    "published": "24 August 2005"
+  },
+  {
+    "title": "Improving outcomes in head and neck cancers",
+    "url": "https://www.nice.org.uk/guidance/csg6",
+    "id": "CSG6",
+    "published": "24 November 2004"
+  }
+]

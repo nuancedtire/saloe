@@ -1,14 +1,14 @@
 {
   "generated": "2024-02-16",
-  "total_files": 113,
+  "total_files": 213,
   "sources": {
     "RCEM": {
       "count": 52,
       "size_mb": 22.6
     },
     "NICE": {
-      "count": 56,
-      "size_mb": 10.4
+      "count": 156,
+      "size_mb": 38.5
     },
     "BTS": {
       "count": 5,
@@ -19,13 +19,28 @@
     "mental-health": [
       "A_Brief_Guide_to_Section_136_for_Emergency_Departments_Dec_2017.pdf",
       "Acute_Behavioural_Disturbance_in_Emergency_Departments_Oct2023_V2.pdf",
-      "Childrens_Mental_Health_Risk_Pathway.pdf"
+      "Childrens_Mental_Health_Risk_Pathway.pdf",
+      "NICE_CG120_Coexisting_severe_mental_illness_psychosis_and_sub.pdf",
+      "NICE_CG136_Service_user_experience_in_adult_mental_health_imp.pdf",
+      "NICE_CG155_Psychosis_and_schizophrenia_in_children_and_young_.pdf",
+      "NICE_CG178_Psychosis_and_schizophrenia_in_adults_prevention_a.pdf",
+      "NICE_CG192_Antenatal_and_postnatal_mental_health_clinical_man.pdf",
+      "NICE_NG105_Preventing_suicide_in_community_and_custodial_sett.pdf",
+      "NICE_NG134_Depression_in_children_and_young_people_identifica.pdf",
+      "NICE_NG181_Rehabilitation_for_adults_with_complex_psychosis.pdf",
+      "NICE_NG53_Transition_between_inpatient_mental_health_setting.pdf",
+      "NICE_NG54_Mental_health_problems_in_people_with_learning_dis.pdf",
+      "NICE_NG66_Mental_health_of_adults_in_contact_with_the_crimin.pdf",
+      "NICE_NG72_Developmental_follow-up_of_children_and_young_peop.pdf"
     ],
     "toxicology": [
       "Acute_Opioid_Toxicity.pdf",
       "Acute_Opioid_Toxicity_Best_Practice_Guideline_v1.pdf",
       "RCEM_Cannabinoid_Hyperemesis_Syndrome_v5.0.pdf",
-      "RCEM_NPIS_Antidote_Letter_Nov_2021-1.pdf"
+      "RCEM_NPIS_Antidote_Letter_Nov_2021-1.pdf",
+      "NICE_CG51_Drug_misuse_in_over_16s_psychosocial_interventions.pdf",
+      "NICE_CG52_Drug_misuse_in_over_16s_opioid_detoxification.pdf",
+      "NICE_NG64_Drug_misuse_prevention_targeted_interventions.pdf"
     ],
     "pain-sedation": [
       "Acute_Opioid_Toxicity.pdf",
@@ -33,7 +48,15 @@
       "Ketamine_Procedural_Sedation_-for_Children_in_EDs_Feb_2020.pdf",
       "Pharmacological_Agents_for_Procedural_Sedation_and_Analgesia_October_2020_Revised_230421.pdf",
       "RCEM_BPC_Management_of_Pain_in_Adults_300621.pdf",
-      "RCEM_Pain_in_Children_Best_Practice_Guidance_REV_Jul2017.pdf"
+      "RCEM_Pain_in_Children_Best_Practice_Guidance_REV_Jul2017.pdf",
+      "NICE_CG112_Sedation_in_under_19s_using_sedation_for_diagnosti.pdf",
+      "NICE_CG140_Palliative_care_for_adults_strong_opioids_for_pain.pdf",
+      "NICE_CG143_Sickle_cell_disease_managing_acute_painful_episode.pdf",
+      "NICE_CG173_Neuropathic_pain_in_adults_pharmacological_managem.pdf",
+      "NICE_CG52_Drug_misuse_in_over_16s_opioid_detoxification.pdf",
+      "NICE_CG95_Recent-onset_chest_pain_of_suspected_cardiac_origi.pdf",
+      "NICE_NG193_Chronic_pain_primary_and_secondary_in_over_16s_ass.pdf",
+      "NICE_NG59_Low_back_pain_and_sciatica_in_over_16s_assessment_.pdf"
     ],
     "operational": [
       "Best_Practice_Guideline_Template_Jan_2022.pdf",
@@ -72,62 +95,77 @@
       "RCEM_HIV_Testing_in_the_ED_revised_December_2020.pdf",
       "RCEM_Patient_Care_in_the_ED.pdf",
       "Reducing_Redundant_Activity_in_the_Acute_Setting_Dec2015.pdf",
-      "CG134.pdf",
-      "CG178.pdf",
-      "CG183.pdf",
-      "CG184.pdf",
-      "CG187.pdf",
-      "CG188.pdf",
-      "CG51.pdf",
-      "CG52.pdf",
-      "NG12.pdf",
-      "NG120.pdf",
-      "NG14.pdf",
-      "NG144.pdf",
-      "NG17.pdf",
-      "NG18.pdf",
-      "NG180.pdf",
-      "NG185.pdf",
-      "NG21.pdf",
-      "NG28.pdf",
-      "NG32.pdf",
-      "NG33.pdf",
-      "NG34.pdf",
-      "NG38.pdf",
-      "NG39.pdf",
-      "NG40.pdf",
-      "NG43.pdf",
-      "NG45.pdf",
-      "NG47.pdf",
-      "NG48.pdf",
-      "NG49.pdf",
-      "NG50.pdf",
-      "NG52.pdf",
-      "NG53.pdf",
-      "NG54.pdf",
-      "NG55.pdf",
-      "NG64.pdf",
-      "NG94.pdf",
-      "QS10.pdf",
-      "QS103.pdf",
-      "QS11.pdf",
-      "QS12.pdf",
-      "QS14.pdf",
-      "QS15.pdf",
-      "QS16.pdf",
-      "QS165.pdf",
-      "QS17.pdf",
-      "QS174.pdf",
-      "QS21.pdf",
-      "QS22.pdf",
-      "QS25.pdf",
-      "QS76.pdf",
-      "QS9.pdf",
-      "TA1045.pdf",
-      "TA1049.pdf",
-      "TA1054.pdf",
-      "TA286.pdf",
-      "TA893.pdf",
+      "NICE_CG100_Alcohol-use_disorders_diagnosis_and_management_of_.pdf",
+      "NICE_CG103_Delirium_prevention_diagnosis_and_management_in_ho.pdf",
+      "NICE_CG109_Transient_loss_of_consciousness_blackouts_in_over_.pdf",
+      "NICE_CG110_Pregnancy_and_complex_social_factors_a_model_for_s.pdf",
+      "NICE_CG115_Alcohol-use_disorders_diagnosis_assessment_and_man.pdf",
+      "NICE_CG118_Colorectal_cancer_prevention_colonoscopic_surveill.pdf",
+      "NICE_CG122_Ovarian_cancer_recognition_and_initial_management.pdf",
+      "NICE_CG128_Autism_spectrum_disorder_in_under_19s_recognition_.pdf",
+      "NICE_CG134_Anaphylaxis_assessment_and_referral_after_emergenc.pdf",
+      "NICE_CG141_Acute_upper_gastrointestinal_bleeding_in_over_16s_.pdf",
+      "NICE_CG142_Autism_spectrum_disorder_in_adults_diagnosis_and_m.pdf",
+      "NICE_CG146_Osteoporosis_assessing_the_risk_of_fragility_fract.pdf",
+      "NICE_CG158_Antisocial_behaviour_and_conduct_disorders_in_chil.pdf",
+      "NICE_CG164_Familial_breast_cancer_classification_care_and_man.pdf",
+      "NICE_CG170_Autism_spectrum_disorder_in_under_19s_support_and_.pdf",
+      "NICE_CG50_Acutely_ill_adults_in_hospital_recognising_and_res.pdf",
+      "NICE_CG64_Prophylaxis_against_infective_endocarditis_antimic.pdf",
+      "NICE_CG81_Advanced_breast_cancer_diagnosis_and_treatment.pdf",
+      "NICE_CG97_Lower_urinary_tract_symptoms_in_men_management.pdf",
+      "NICE_CSG6_Improving_outcomes_in_head_and_neck_cancers.pdf",
+      "NICE_NG101_Early_and_locally_advanced_breast_cancer_diagnosis.pdf",
+      "NICE_NG107_Renal_replacement_therapy_and_conservative_managem.pdf",
+      "NICE_NG10_Violence_and_aggression_short-term_management_in_m.pdf",
+      "NICE_NG110_Prostatitis_acute_antimicrobial_prescribing.pdf",
+      "NICE_NG111_Pyelonephritis_acute_antimicrobial_prescribing.pdf",
+      "NICE_NG117_Bronchiectasis_non-cystic_fibrosis_acute_exacerbat.pdf",
+      "NICE_NG118_Renal_and_ureteric_stones_assessment_and_managemen.pdf",
+      "NICE_NG120_Cough_acute_antimicrobial_prescribing.pdf",
+      "NICE_NG121_Intrapartum_care_for_women_with_existing_medical_c.pdf",
+      "NICE_NG122_Lung_cancer_diagnosis_and_management.pdf",
+      "NICE_NG123_Urinary_incontinence_and_pelvic_organ_prolapse_in_.pdf",
+      "NICE_NG126_Ectopic_pregnancy_and_miscarriage_diagnosis_and_in.pdf",
+      "NICE_NG12_Suspected_cancer_recognition_and_referral.pdf",
+      "NICE_NG131_Prostate_cancer_diagnosis_and_management.pdf",
+      "NICE_NG132_Hyperparathyroidism_primary_diagnosis_assessment_a.pdf",
+      "NICE_NG135_Alcohol_interventions_in_secondary_and_further_edu.pdf",
+      "NICE_NG137_Twin_and_triplet_pregnancy.pdf",
+      "NICE_NG143_Fever_in_under_5s_assessment_and_initial_managemen.pdf",
+      "NICE_NG151_Colorectal_cancer.pdf",
+      "NICE_NG16_Dementia_disability_and_frailty_in_later_life_mid-.pdf",
+      "NICE_NG17_Type_1_diabetes_in_adults_diagnosis_and_management.pdf",
+      "NICE_NG196_Atrial_fibrillation_diagnosis_and_management.pdf",
+      "NICE_NG203_Chronic_kidney_disease_assessment_and_management.pdf",
+      "NICE_NG225_Self-harm_assessment_management_and_preventing_rec.pdf",
+      "NICE_NG230_Thyroid_cancer_assessment_and_management.pdf",
+      "NICE_NG241_Ovarian_cancer_identifying_and_managing_familial_a.pdf",
+      "NICE_NG243_Adrenal_insufficiency_identification_and_managemen.pdf",
+      "NICE_NG249_Falls_assessment_and_prevention_in_older_people_an.pdf",
+      "NICE_NG28_Type_2_diabetes_in_adults_management.pdf",
+      "NICE_NG2_Bladder_cancer_diagnosis_and_management.pdf",
+      "NICE_NG36_Cancer_of_the_upper_aerodigestive_tract_assessment.pdf",
+      "NICE_NG3_Diabetes_in_pregnancy_management_from_preconceptio.pdf",
+      "NICE_NG45_Routine_preoperative_tests_for_elective_surgery.pdf",
+      "NICE_NG47_Haematological_cancers_improving_outcomes.pdf",
+      "NICE_NG49_Non-alcoholic_fatty_liver_disease_NAFLD_assessment.pdf",
+      "NICE_NG70_Air_pollution_outdoor_air_quality_and_health.pdf",
+      "NICE_NG75_Faltering_growth_recognition_and_management_of_fal.pdf",
+      "NICE_NG79_Sinusitis_acute_antimicrobial_prescribing.pdf",
+      "NICE_NG83_Oesophago-gastric_cancer_assessment_and_management.pdf",
+      "NICE_NG84_Sore_throat_acute_antimicrobial_prescribing.pdf",
+      "NICE_NG85_Pancreatic_cancer_in_adults_diagnosis_and_manageme.pdf",
+      "NICE_NG89_Venous_thromboembolism_in_over_16s_reducing_the_ri.pdf",
+      "NICE_NG91_Otitis_media_acute_antimicrobial_prescribing.pdf",
+      "NICE_NG94_Emergency_and_acute_medical_care_in_over_16s_servi.pdf",
+      "NICE_NG97_Dementia_assessment_management_and_support_for_peo.pdf",
+      "NICE_PH24_Alcohol-use_disorders_prevention.pdf",
+      "NICE_PH32_Skin_cancer_prevention.pdf",
+      "NICE_PH35_Type_2_diabetes_prevention_population_and_communit.pdf",
+      "NICE_PH38_Type_2_diabetes_prevention_in_people_at_high_risk.pdf",
+      "NICE_PH43_Hepatitis_B_and_C_testing_people_at_risk_of_infect.pdf",
+      "NICE_SG1_Safe_staffing_for_nursing_in_adult_inpatient_wards.pdf",
       "BTS_CAP_2009.pdf",
       "BTS_CAP_QuickRef.pdf"
     ],
@@ -136,11 +174,41 @@
       "Ketamine_Procedural_Sedation_-for_Children_in_EDs_Feb_2020.pdf",
       "RCEM_BPC_Ingestion_of_Super_Strong_Magnets_in_Children_170521.pdf",
       "RCEM_Pain_in_Children_Best_Practice_Guidance_REV_Jul2017.pdf",
-      "RCEM_Response_to_RCR_Imaging_in_Paediatric_Trauma_Guidelines_Mar2017.pdf"
+      "RCEM_Response_to_RCR_Imaging_in_Paediatric_Trauma_Guidelines_Mar2017.pdf",
+      "NICE_CG155_Psychosis_and_schizophrenia_in_children_and_young_.pdf",
+      "NICE_CG89_Child_maltreatment_when_to_suspect_maltreatment_in.pdf",
+      "NICE_CG99_Constipation_in_children_and_young_people_diagnosi.pdf",
+      "NICE_CSG7_Improving_outcomes_in_children_and_young_people_wi.pdf",
+      "NICE_NG124_Specialist_neonatal_respiratory_care_for_babies_bo.pdf",
+      "NICE_NG134_Depression_in_children_and_young_people_identifica.pdf",
+      "NICE_NG154_Neonatal_parenteral_nutrition.pdf",
+      "NICE_NG18_Diabetes_type_1_and_type_2_in_children_and_young_p.pdf",
+      "NICE_NG195_Neonatal_infection_antibiotics_for_prevention_and_.pdf",
+      "NICE_NG1_Gastro-oesophageal_reflux_disease_in_children_and_.pdf",
+      "NICE_NG204_Babies_children_and_young_peoples_experience_of_he.pdf",
+      "NICE_NG205_Looked-after_children_and_young_people.pdf",
+      "NICE_NG213_Disabled_children_and_young_people_up_to_25_with_s.pdf",
+      "NICE_NG217_Epilepsies_in_children_young_people_and_adults.pdf",
+      "NICE_NG247_Maternal_and_child_nutrition_nutrition_and_weight_.pdf",
+      "NICE_NG26_Childrens_attachment_attachment_in_children_and_yo.pdf",
+      "NICE_NG29_Intravenous_fluid_therapy_in_children_and_young_pe.pdf",
+      "NICE_NG43_Transition_from_childrens_to_adults_services_for_y.pdf",
+      "NICE_NG55_Harmful_sexual_behaviour_among_children_and_young_.pdf",
+      "NICE_NG61_End_of_life_care_for_infants_children_and_young_pe.pdf",
+      "NICE_NG72_Developmental_follow-up_of_children_and_young_peop.pdf",
+      "NICE_NG76_Child_abuse_and_neglect.pdf",
+      "NICE_NG9_Bronchiolitis_in_children_diagnosis_and_management.pdf",
+      "NICE_PH17_Physical_activity_for_children_and_young_people.pdf"
     ],
     "respiratory": [
       "Diagnosis_of_Thoracic_Aortic_Dissection_RCEM_RCR_v2.pdf",
       "Diagnosis_of_Thoracic_Aortic_Dissection_in_the_Emergency_Department_RCEM_RCR_2025_V2.pdf",
+      "NICE_NG114_Chronic_obstructive_pulmonary_disease_acute_exacer.pdf",
+      "NICE_NG124_Specialist_neonatal_respiratory_care_for_babies_bo.pdf",
+      "NICE_NG237_Suspected_acute_respiratory_infection_in_over_16s_.pdf",
+      "NICE_NG244_Asthma_pathway_BTS_NICE_SIGN.pdf",
+      "NICE_NG245_Asthma_diagnosis_monitoring_and_chronic_asthma_man.pdf",
+      "NICE_NG250_Pneumonia_diagnosis_and_management.pdf",
       "BTS_Emergency_Oxygen.pdf",
       "BTS_Oxygen.pdf",
       "BTS_Pleural_2023.pdf"
@@ -148,15 +216,61 @@
     "cardiovascular": [
       "Diagnosis_of_Thoracic_Aortic_Dissection_RCEM_RCR_v2.pdf",
       "Diagnosis_of_Thoracic_Aortic_Dissection_in_the_Emergency_Department_RCEM_RCR_2025_V2.pdf",
-      "RCEM_Traumatic_Cardiac_Arrest_Sept2019_FINAL.pdf"
+      "RCEM_Traumatic_Cardiac_Arrest_Sept2019_FINAL.pdf",
+      "NICE_CG187_Acute_heart_failure_diagnosis_and_management.pdf",
+      "NICE_CG95_Recent-onset_chest_pain_of_suspected_cardiac_origi.pdf",
+      "NICE_NG106_Chronic_heart_failure_in_adults_diagnosis_and_mana.pdf",
+      "NICE_NG133_Hypertension_in_pregnancy_diagnosis_and_management.pdf",
+      "NICE_NG185_Acute_coronary_syndromes.pdf",
+      "NICE_NG208_Heart_valve_disease_presenting_in_adults_investiga.pdf"
     ],
     "safeguarding": [
       "FGM_BP-Guide_Jul2017.pdf",
-      "Management_of_Domestic_Abuse_March2015.pdf"
+      "Management_of_Domestic_Abuse_March2015.pdf",
+      "NICE_NG189_Safeguarding_adults_in_care_homes.pdf",
+      "NICE_NG76_Child_abuse_and_neglect.pdf",
+      "NICE_PH50_Domestic_violence_and_abuse_multi-agency_working.pdf"
     ],
     "trauma": [
       "RCEM_Response_to_RCR_Imaging_in_Paediatric_Trauma_Guidelines_Mar2017.pdf",
-      "RCEM_Traumatic_Cardiac_Arrest_Sept2019_FINAL.pdf"
+      "RCEM_Traumatic_Cardiac_Arrest_Sept2019_FINAL.pdf",
+      "NICE_CG124_Hip_fracture_management.pdf",
+      "NICE_NG116_Post-traumatic_stress_disorder.pdf",
+      "NICE_NG148_Acute_kidney_injury_prevention_detection_and_manag.pdf",
+      "NICE_NG211_Rehabilitation_after_traumatic_injury.pdf",
+      "NICE_NG232_Head_injury_assessment_and_early_management.pdf",
+      "NICE_NG37_Fractures_complex_assessment_and_management.pdf",
+      "NICE_NG38_Fractures_non-complex_assessment_and_management.pdf",
+      "NICE_NG39_Major_trauma_assessment_and_initial_management.pdf",
+      "NICE_NG40_Major_trauma_service_delivery.pdf",
+      "NICE_NG41_Spinal_injury_assessment_and_initial_management.pdf"
+    ],
+    "infection": [
+      "NICE_CG139_Healthcare-associated_infections_prevention_and_co.pdf",
+      "NICE_CG151_Neutropenic_sepsis_prevention_and_management_in_pe.pdf",
+      "NICE_NG109_Urinary_tract_infection_lower_antimicrobial_prescr.pdf",
+      "NICE_NG112_Urinary_tract_infection_recurrent_antimicrobial_pr.pdf",
+      "NICE_NG113_Urinary_tract_infection_catheter-associated_antimi.pdf",
+      "NICE_NG125_Surgical_site_infections_prevention_and_treatment.pdf",
+      "NICE_NG152_Leg_ulcer_infection_antimicrobial_prescribing.pdf",
+      "NICE_NG190_Secondary_bacterial_infection_of_eczema_and_other_.pdf",
+      "NICE_NG195_Neonatal_infection_antibiotics_for_prevention_and_.pdf",
+      "NICE_NG199_Clostridioides_difficile_infection_antimicrobial_p.pdf",
+      "NICE_NG221_Reducing_sexually_transmitted_infections.pdf",
+      "NICE_NG224_Urinary_tract_infection_in_under_16s_diagnosis_and.pdf",
+      "NICE_NG237_Suspected_acute_respiratory_infection_in_over_16s_.pdf",
+      "NICE_NG240_Meningitis_bacterial_and_meningococcal_disease_rec.pdf",
+      "NICE_NG250_Pneumonia_diagnosis_and_management.pdf",
+      "NICE_NG253_Suspected_sepsis_in_people_aged_16_or_over_recogni.pdf",
+      "NICE_NG254_Suspected_sepsis_in_under_16s_recognition_diagnosi.pdf",
+      "NICE_NG255_Suspected_sepsis_in_pregnant_or_recently_pregnant_.pdf",
+      "NICE_NG68_Sexually_transmitted_infections_condom_distributio.pdf",
+      "NICE_PH36_Healthcare-associated_infections_prevention_and_co.pdf"
+    ],
+    "neurology": [
+      "NICE_CG148_Urinary_incontinence_in_neurological_disease_asses.pdf",
+      "NICE_NG128_Stroke_and_transient_ischaemic_attack_in_over_16s_.pdf",
+      "NICE_NG236_Stroke_rehabilitation_in_adults.pdf"
     ]
   },
   "guidelines": [
@@ -742,286 +856,1372 @@
       ]
     },
     {
-      "id": "CG134",
-      "title": "CG134",
+      "id": "CG100",
+      "title": "NICE CG100 Alcohol use disorders diagnosis and management of",
       "source": "NICE",
-      "filename": "CG134.pdf",
-      "path": "/home/exedev/eolas-guidelines/NICE/CG134.pdf",
-      "size_kb": 93,
+      "filename": "NICE_CG100_Alcohol-use_disorders_diagnosis_and_management_of_.pdf",
+      "path": "/home/exedev/eolas-guidelines/NICE/NICE_CG100_Alcohol-use_disorders_diagnosis_and_management_of_.pdf",
+      "size_kb": 141,
       "categories": [
         "general"
       ]
     },
     {
-      "id": "CG178",
-      "title": "CG178",
+      "id": "CG103",
+      "title": "NICE CG103 Delirium prevention diagnosis and management in ho",
       "source": "NICE",
-      "filename": "CG178.pdf",
-      "path": "/home/exedev/eolas-guidelines/NICE/CG178.pdf",
-      "size_kb": 201,
-      "categories": [
-        "general"
-      ]
-    },
-    {
-      "id": "CG183",
-      "title": "CG183",
-      "source": "NICE",
-      "filename": "CG183.pdf",
-      "path": "/home/exedev/eolas-guidelines/NICE/CG183.pdf",
-      "size_kb": 157,
-      "categories": [
-        "general"
-      ]
-    },
-    {
-      "id": "CG184",
-      "title": "CG184",
-      "source": "NICE",
-      "filename": "CG184.pdf",
-      "path": "/home/exedev/eolas-guidelines/NICE/CG184.pdf",
-      "size_kb": 166,
-      "categories": [
-        "general"
-      ]
-    },
-    {
-      "id": "CG187",
-      "title": "CG187",
-      "source": "NICE",
-      "filename": "CG187.pdf",
-      "path": "/home/exedev/eolas-guidelines/NICE/CG187.pdf",
-      "size_kb": 111,
-      "categories": [
-        "general"
-      ]
-    },
-    {
-      "id": "CG188",
-      "title": "CG188",
-      "source": "NICE",
-      "filename": "CG188.pdf",
-      "path": "/home/exedev/eolas-guidelines/NICE/CG188.pdf",
-      "size_kb": 82,
-      "categories": [
-        "general"
-      ]
-    },
-    {
-      "id": "CG51",
-      "title": "CG51",
-      "source": "NICE",
-      "filename": "CG51.pdf",
-      "path": "/home/exedev/eolas-guidelines/NICE/CG51.pdf",
+      "filename": "NICE_CG103_Delirium_prevention_diagnosis_and_management_in_ho.pdf",
+      "path": "/home/exedev/eolas-guidelines/NICE/NICE_CG103_Delirium_prevention_diagnosis_and_management_in_ho.pdf",
       "size_kb": 139,
       "categories": [
         "general"
       ]
     },
     {
-      "id": "CG52",
-      "title": "CG52",
+      "id": "CG109",
+      "title": "NICE CG109 Transient loss of consciousness blackouts in over",
       "source": "NICE",
-      "filename": "CG52.pdf",
-      "path": "/home/exedev/eolas-guidelines/NICE/CG52.pdf",
+      "filename": "NICE_CG109_Transient_loss_of_consciousness_blackouts_in_over_.pdf",
+      "path": "/home/exedev/eolas-guidelines/NICE/NICE_CG109_Transient_loss_of_consciousness_blackouts_in_over_.pdf",
+      "size_kb": 192,
+      "categories": [
+        "general"
+      ]
+    },
+    {
+      "id": "CG110",
+      "title": "NICE CG110 Pregnancy and complex social factors a model for s",
+      "source": "NICE",
+      "filename": "NICE_CG110_Pregnancy_and_complex_social_factors_a_model_for_s.pdf",
+      "path": "/home/exedev/eolas-guidelines/NICE/NICE_CG110_Pregnancy_and_complex_social_factors_a_model_for_s.pdf",
+      "size_kb": 163,
+      "categories": [
+        "general"
+      ]
+    },
+    {
+      "id": "CG112",
+      "title": "NICE CG112 Sedation in under 19s using sedation for diagnosti",
+      "source": "NICE",
+      "filename": "NICE_CG112_Sedation_in_under_19s_using_sedation_for_diagnosti.pdf",
+      "path": "/home/exedev/eolas-guidelines/NICE/NICE_CG112_Sedation_in_under_19s_using_sedation_for_diagnosti.pdf",
+      "size_kb": 135,
+      "categories": [
+        "pain-sedation"
+      ]
+    },
+    {
+      "id": "CG115",
+      "title": "NICE CG115 Alcohol use disorders diagnosis assessment and man",
+      "source": "NICE",
+      "filename": "NICE_CG115_Alcohol-use_disorders_diagnosis_assessment_and_man.pdf",
+      "path": "/home/exedev/eolas-guidelines/NICE/NICE_CG115_Alcohol-use_disorders_diagnosis_assessment_and_man.pdf",
+      "size_kb": 207,
+      "categories": [
+        "general"
+      ]
+    },
+    {
+      "id": "CG118",
+      "title": "NICE CG118 Colorectal cancer prevention colonoscopic surveill",
+      "source": "NICE",
+      "filename": "NICE_CG118_Colorectal_cancer_prevention_colonoscopic_surveill.pdf",
+      "path": "/home/exedev/eolas-guidelines/NICE/NICE_CG118_Colorectal_cancer_prevention_colonoscopic_surveill.pdf",
+      "size_kb": 90,
+      "categories": [
+        "general"
+      ]
+    },
+    {
+      "id": "CG120",
+      "title": "NICE CG120 Coexisting severe mental illness psychosis and sub",
+      "source": "NICE",
+      "filename": "NICE_CG120_Coexisting_severe_mental_illness_psychosis_and_sub.pdf",
+      "path": "/home/exedev/eolas-guidelines/NICE/NICE_CG120_Coexisting_severe_mental_illness_psychosis_and_sub.pdf",
+      "size_kb": 151,
+      "categories": [
+        "mental-health"
+      ]
+    },
+    {
+      "id": "CG122",
+      "title": "NICE CG122 Ovarian cancer recognition and initial management",
+      "source": "NICE",
+      "filename": "NICE_CG122_Ovarian_cancer_recognition_and_initial_management.pdf",
+      "path": "/home/exedev/eolas-guidelines/NICE/NICE_CG122_Ovarian_cancer_recognition_and_initial_management.pdf",
+      "size_kb": 125,
+      "categories": [
+        "general"
+      ]
+    },
+    {
+      "id": "CG124",
+      "title": "NICE CG124 Hip fracture management",
+      "source": "NICE",
+      "filename": "NICE_CG124_Hip_fracture_management.pdf",
+      "path": "/home/exedev/eolas-guidelines/NICE/NICE_CG124_Hip_fracture_management.pdf",
+      "size_kb": 143,
+      "categories": [
+        "trauma"
+      ]
+    },
+    {
+      "id": "CG128",
+      "title": "NICE CG128 Autism spectrum disorder in under 19s recognition",
+      "source": "NICE",
+      "filename": "NICE_CG128_Autism_spectrum_disorder_in_under_19s_recognition_.pdf",
+      "path": "/home/exedev/eolas-guidelines/NICE/NICE_CG128_Autism_spectrum_disorder_in_under_19s_recognition_.pdf",
+      "size_kb": 202,
+      "categories": [
+        "general"
+      ]
+    },
+    {
+      "id": "CG134",
+      "title": "NICE CG134 Anaphylaxis assessment and referral after emergenc",
+      "source": "NICE",
+      "filename": "NICE_CG134_Anaphylaxis_assessment_and_referral_after_emergenc.pdf",
+      "path": "/home/exedev/eolas-guidelines/NICE/NICE_CG134_Anaphylaxis_assessment_and_referral_after_emergenc.pdf",
+      "size_kb": 93,
+      "categories": [
+        "general"
+      ]
+    },
+    {
+      "id": "CG136",
+      "title": "NICE CG136 Service user experience in adult mental health imp",
+      "source": "NICE",
+      "filename": "NICE_CG136_Service_user_experience_in_adult_mental_health_imp.pdf",
+      "path": "/home/exedev/eolas-guidelines/NICE/NICE_CG136_Service_user_experience_in_adult_mental_health_imp.pdf",
+      "size_kb": 172,
+      "categories": [
+        "mental-health"
+      ]
+    },
+    {
+      "id": "CG139",
+      "title": "NICE CG139 Healthcare associated infections prevention and co",
+      "source": "NICE",
+      "filename": "NICE_CG139_Healthcare-associated_infections_prevention_and_co.pdf",
+      "path": "/home/exedev/eolas-guidelines/NICE/NICE_CG139_Healthcare-associated_infections_prevention_and_co.pdf",
+      "size_kb": 182,
+      "categories": [
+        "infection"
+      ]
+    },
+    {
+      "id": "CG140",
+      "title": "NICE CG140 Palliative care for adults strong opioids for pain",
+      "source": "NICE",
+      "filename": "NICE_CG140_Palliative_care_for_adults_strong_opioids_for_pain.pdf",
+      "path": "/home/exedev/eolas-guidelines/NICE/NICE_CG140_Palliative_care_for_adults_strong_opioids_for_pain.pdf",
+      "size_kb": 94,
+      "categories": [
+        "pain-sedation"
+      ]
+    },
+    {
+      "id": "CG141",
+      "title": "NICE CG141 Acute upper gastrointestinal bleeding in over 16s",
+      "source": "NICE",
+      "filename": "NICE_CG141_Acute_upper_gastrointestinal_bleeding_in_over_16s_.pdf",
+      "path": "/home/exedev/eolas-guidelines/NICE/NICE_CG141_Acute_upper_gastrointestinal_bleeding_in_over_16s_.pdf",
+      "size_kb": 90,
+      "categories": [
+        "general"
+      ]
+    },
+    {
+      "id": "CG142",
+      "title": "NICE CG142 Autism spectrum disorder in adults diagnosis and m",
+      "source": "NICE",
+      "filename": "NICE_CG142_Autism_spectrum_disorder_in_adults_diagnosis_and_m.pdf",
+      "path": "/home/exedev/eolas-guidelines/NICE/NICE_CG142_Autism_spectrum_disorder_in_adults_diagnosis_and_m.pdf",
+      "size_kb": 223,
+      "categories": [
+        "general"
+      ]
+    },
+    {
+      "id": "CG143",
+      "title": "NICE CG143 Sickle cell disease managing acute painful episode",
+      "source": "NICE",
+      "filename": "NICE_CG143_Sickle_cell_disease_managing_acute_painful_episode.pdf",
+      "path": "/home/exedev/eolas-guidelines/NICE/NICE_CG143_Sickle_cell_disease_managing_acute_painful_episode.pdf",
+      "size_kb": 104,
+      "categories": [
+        "pain-sedation"
+      ]
+    },
+    {
+      "id": "CG146",
+      "title": "NICE CG146 Osteoporosis assessing the risk of fragility fract",
+      "source": "NICE",
+      "filename": "NICE_CG146_Osteoporosis_assessing_the_risk_of_fragility_fract.pdf",
+      "path": "/home/exedev/eolas-guidelines/NICE/NICE_CG146_Osteoporosis_assessing_the_risk_of_fragility_fract.pdf",
+      "size_kb": 98,
+      "categories": [
+        "general"
+      ]
+    },
+    {
+      "id": "CG148",
+      "title": "NICE CG148 Urinary incontinence in neurological disease asses",
+      "source": "NICE",
+      "filename": "NICE_CG148_Urinary_incontinence_in_neurological_disease_asses.pdf",
+      "path": "/home/exedev/eolas-guidelines/NICE/NICE_CG148_Urinary_incontinence_in_neurological_disease_asses.pdf",
+      "size_kb": 190,
+      "categories": [
+        "neurology"
+      ]
+    },
+    {
+      "id": "CG151",
+      "title": "NICE CG151 Neutropenic sepsis prevention and management in pe",
+      "source": "NICE",
+      "filename": "NICE_CG151_Neutropenic_sepsis_prevention_and_management_in_pe.pdf",
+      "path": "/home/exedev/eolas-guidelines/NICE/NICE_CG151_Neutropenic_sepsis_prevention_and_management_in_pe.pdf",
+      "size_kb": 141,
+      "categories": [
+        "infection"
+      ]
+    },
+    {
+      "id": "CG155",
+      "title": "NICE CG155 Psychosis and schizophrenia in children and young",
+      "source": "NICE",
+      "filename": "NICE_CG155_Psychosis_and_schizophrenia_in_children_and_young_.pdf",
+      "path": "/home/exedev/eolas-guidelines/NICE/NICE_CG155_Psychosis_and_schizophrenia_in_children_and_young_.pdf",
+      "size_kb": 228,
+      "categories": [
+        "paediatric",
+        "mental-health"
+      ]
+    },
+    {
+      "id": "CG158",
+      "title": "NICE CG158 Antisocial behaviour and conduct disorders in chil",
+      "source": "NICE",
+      "filename": "NICE_CG158_Antisocial_behaviour_and_conduct_disorders_in_chil.pdf",
+      "path": "/home/exedev/eolas-guidelines/NICE/NICE_CG158_Antisocial_behaviour_and_conduct_disorders_in_chil.pdf",
+      "size_kb": 174,
+      "categories": [
+        "general"
+      ]
+    },
+    {
+      "id": "CG164",
+      "title": "NICE CG164 Familial breast cancer classification care and man",
+      "source": "NICE",
+      "filename": "NICE_CG164_Familial_breast_cancer_classification_care_and_man.pdf",
+      "path": "/home/exedev/eolas-guidelines/NICE/NICE_CG164_Familial_breast_cancer_classification_care_and_man.pdf",
+      "size_kb": 253,
+      "categories": [
+        "general"
+      ]
+    },
+    {
+      "id": "CG170",
+      "title": "NICE CG170 Autism spectrum disorder in under 19s support and",
+      "source": "NICE",
+      "filename": "NICE_CG170_Autism_spectrum_disorder_in_under_19s_support_and_.pdf",
+      "path": "/home/exedev/eolas-guidelines/NICE/NICE_CG170_Autism_spectrum_disorder_in_under_19s_support_and_.pdf",
+      "size_kb": 192,
+      "categories": [
+        "general"
+      ]
+    },
+    {
+      "id": "CG173",
+      "title": "NICE CG173 Neuropathic pain in adults pharmacological managem",
+      "source": "NICE",
+      "filename": "NICE_CG173_Neuropathic_pain_in_adults_pharmacological_managem.pdf",
+      "path": "/home/exedev/eolas-guidelines/NICE/NICE_CG173_Neuropathic_pain_in_adults_pharmacological_managem.pdf",
+      "size_kb": 180,
+      "categories": [
+        "pain-sedation"
+      ]
+    },
+    {
+      "id": "CG178",
+      "title": "NICE CG178 Psychosis and schizophrenia in adults prevention a",
+      "source": "NICE",
+      "filename": "NICE_CG178_Psychosis_and_schizophrenia_in_adults_prevention_a.pdf",
+      "path": "/home/exedev/eolas-guidelines/NICE/NICE_CG178_Psychosis_and_schizophrenia_in_adults_prevention_a.pdf",
+      "size_kb": 201,
+      "categories": [
+        "mental-health"
+      ]
+    },
+    {
+      "id": "CG187",
+      "title": "NICE CG187 Acute heart failure diagnosis and management",
+      "source": "NICE",
+      "filename": "NICE_CG187_Acute_heart_failure_diagnosis_and_management.pdf",
+      "path": "/home/exedev/eolas-guidelines/NICE/NICE_CG187_Acute_heart_failure_diagnosis_and_management.pdf",
+      "size_kb": 111,
+      "categories": [
+        "cardiovascular"
+      ]
+    },
+    {
+      "id": "CG192",
+      "title": "NICE CG192 Antenatal and postnatal mental health clinical man",
+      "source": "NICE",
+      "filename": "NICE_CG192_Antenatal_and_postnatal_mental_health_clinical_man.pdf",
+      "path": "/home/exedev/eolas-guidelines/NICE/NICE_CG192_Antenatal_and_postnatal_mental_health_clinical_man.pdf",
+      "size_kb": 256,
+      "categories": [
+        "mental-health"
+      ]
+    },
+    {
+      "id": "CG50",
+      "title": "NICE CG50 Acutely ill adults in hospital recognising and res",
+      "source": "NICE",
+      "filename": "NICE_CG50_Acutely_ill_adults_in_hospital_recognising_and_res.pdf",
+      "path": "/home/exedev/eolas-guidelines/NICE/NICE_CG50_Acutely_ill_adults_in_hospital_recognising_and_res.pdf",
+      "size_kb": 108,
+      "categories": [
+        "general"
+      ]
+    },
+    {
+      "id": "CG51",
+      "title": "NICE CG51 Drug misuse in over 16s psychosocial interventions",
+      "source": "NICE",
+      "filename": "NICE_CG51_Drug_misuse_in_over_16s_psychosocial_interventions.pdf",
+      "path": "/home/exedev/eolas-guidelines/NICE/NICE_CG51_Drug_misuse_in_over_16s_psychosocial_interventions.pdf",
+      "size_kb": 139,
+      "categories": [
+        "toxicology"
+      ]
+    },
+    {
+      "id": "CG52",
+      "title": "NICE CG52 Drug misuse in over 16s opioid detoxification",
+      "source": "NICE",
+      "filename": "NICE_CG52_Drug_misuse_in_over_16s_opioid_detoxification.pdf",
+      "path": "/home/exedev/eolas-guidelines/NICE/NICE_CG52_Drug_misuse_in_over_16s_opioid_detoxification.pdf",
       "size_kb": 154,
       "categories": [
-        "general"
+        "toxicology",
+        "pain-sedation"
       ]
     },
     {
-      "id": "NG12",
-      "title": "NG12",
+      "id": "CG64",
+      "title": "NICE CG64 Prophylaxis against infective endocarditis antimic",
       "source": "NICE",
-      "filename": "NG12.pdf",
-      "path": "/home/exedev/eolas-guidelines/NICE/NG12.pdf",
-      "size_kb": 486,
+      "filename": "NICE_CG64_Prophylaxis_against_infective_endocarditis_antimic.pdf",
+      "path": "/home/exedev/eolas-guidelines/NICE/NICE_CG64_Prophylaxis_against_infective_endocarditis_antimic.pdf",
+      "size_kb": 86,
       "categories": [
         "general"
       ]
     },
     {
-      "id": "NG120",
-      "title": "NG120",
+      "id": "CG81",
+      "title": "NICE CG81 Advanced breast cancer diagnosis and treatment",
       "source": "NICE",
-      "filename": "NG120.pdf",
-      "path": "/home/exedev/eolas-guidelines/NICE/NG120.pdf",
-      "size_kb": 267,
+      "filename": "NICE_CG81_Advanced_breast_cancer_diagnosis_and_treatment.pdf",
+      "path": "/home/exedev/eolas-guidelines/NICE/NICE_CG81_Advanced_breast_cancer_diagnosis_and_treatment.pdf",
+      "size_kb": 106,
       "categories": [
         "general"
       ]
     },
     {
-      "id": "NG14",
-      "title": "NG14",
+      "id": "CG89",
+      "title": "NICE CG89 Child maltreatment when to suspect maltreatment in",
       "source": "NICE",
-      "filename": "NG14.pdf",
-      "path": "/home/exedev/eolas-guidelines/NICE/NG14.pdf",
-      "size_kb": 242,
+      "filename": "NICE_CG89_Child_maltreatment_when_to_suspect_maltreatment_in.pdf",
+      "path": "/home/exedev/eolas-guidelines/NICE/NICE_CG89_Child_maltreatment_when_to_suspect_maltreatment_in.pdf",
+      "size_kb": 200,
+      "categories": [
+        "paediatric"
+      ]
+    },
+    {
+      "id": "CG95",
+      "title": "NICE CG95 Recent onset chest pain of suspected cardiac origi",
+      "source": "NICE",
+      "filename": "NICE_CG95_Recent-onset_chest_pain_of_suspected_cardiac_origi.pdf",
+      "path": "/home/exedev/eolas-guidelines/NICE/NICE_CG95_Recent-onset_chest_pain_of_suspected_cardiac_origi.pdf",
+      "size_kb": 200,
+      "categories": [
+        "cardiovascular",
+        "pain-sedation"
+      ]
+    },
+    {
+      "id": "CG97",
+      "title": "NICE CG97 Lower urinary tract symptoms in men management",
+      "source": "NICE",
+      "filename": "NICE_CG97_Lower_urinary_tract_symptoms_in_men_management.pdf",
+      "path": "/home/exedev/eolas-guidelines/NICE/NICE_CG97_Lower_urinary_tract_symptoms_in_men_management.pdf",
+      "size_kb": 126,
       "categories": [
         "general"
       ]
     },
     {
-      "id": "NG144",
-      "title": "NG144",
+      "id": "CG99",
+      "title": "NICE CG99 Constipation in children and young people diagnosi",
       "source": "NICE",
-      "filename": "NG144.pdf",
-      "path": "/home/exedev/eolas-guidelines/NICE/NG144.pdf",
-      "size_kb": 165,
+      "filename": "NICE_CG99_Constipation_in_children_and_young_people_diagnosi.pdf",
+      "path": "/home/exedev/eolas-guidelines/NICE/NICE_CG99_Constipation_in_children_and_young_people_diagnosi.pdf",
+      "size_kb": 147,
+      "categories": [
+        "paediatric"
+      ]
+    },
+    {
+      "id": null,
+      "title": "NICE CSG6 Improving outcomes in head and neck cancers",
+      "source": "NICE",
+      "filename": "NICE_CSG6_Improving_outcomes_in_head_and_neck_cancers.pdf",
+      "path": "/home/exedev/eolas-guidelines/NICE/NICE_CSG6_Improving_outcomes_in_head_and_neck_cancers.pdf",
+      "size_kb": 395,
       "categories": [
         "general"
       ]
     },
     {
-      "id": "NG17",
-      "title": "NG17",
+      "id": null,
+      "title": "NICE CSG7 Improving outcomes in children and young people wi",
       "source": "NICE",
-      "filename": "NG17.pdf",
-      "path": "/home/exedev/eolas-guidelines/NICE/NG17.pdf",
-      "size_kb": 328,
+      "filename": "NICE_CSG7_Improving_outcomes_in_children_and_young_people_wi.pdf",
+      "path": "/home/exedev/eolas-guidelines/NICE/NICE_CSG7_Improving_outcomes_in_children_and_young_people_wi.pdf",
+      "size_kb": 460,
+      "categories": [
+        "paediatric"
+      ]
+    },
+    {
+      "id": "NG101",
+      "title": "NICE NG101 Early and locally advanced breast cancer diagnosis",
+      "source": "NICE",
+      "filename": "NICE_NG101_Early_and_locally_advanced_breast_cancer_diagnosis.pdf",
+      "path": "/home/exedev/eolas-guidelines/NICE/NICE_NG101_Early_and_locally_advanced_breast_cancer_diagnosis.pdf",
+      "size_kb": 544,
       "categories": [
         "general"
       ]
     },
     {
-      "id": "NG18",
-      "title": "NG18",
+      "id": "NG105",
+      "title": "NICE NG105 Preventing suicide in community and custodial sett",
       "source": "NICE",
-      "filename": "NG18.pdf",
-      "path": "/home/exedev/eolas-guidelines/NICE/NG18.pdf",
-      "size_kb": 452,
+      "filename": "NICE_NG105_Preventing_suicide_in_community_and_custodial_sett.pdf",
+      "path": "/home/exedev/eolas-guidelines/NICE/NICE_NG105_Preventing_suicide_in_community_and_custodial_sett.pdf",
+      "size_kb": 230,
+      "categories": [
+        "mental-health"
+      ]
+    },
+    {
+      "id": "NG106",
+      "title": "NICE NG106 Chronic heart failure in adults diagnosis and mana",
+      "source": "NICE",
+      "filename": "NICE_NG106_Chronic_heart_failure_in_adults_diagnosis_and_mana.pdf",
+      "path": "/home/exedev/eolas-guidelines/NICE/NICE_NG106_Chronic_heart_failure_in_adults_diagnosis_and_mana.pdf",
+      "size_kb": 211,
+      "categories": [
+        "cardiovascular"
+      ]
+    },
+    {
+      "id": "NG107",
+      "title": "NICE NG107 Renal replacement therapy and conservative managem",
+      "source": "NICE",
+      "filename": "NICE_NG107_Renal_replacement_therapy_and_conservative_managem.pdf",
+      "path": "/home/exedev/eolas-guidelines/NICE/NICE_NG107_Renal_replacement_therapy_and_conservative_managem.pdf",
+      "size_kb": 207,
       "categories": [
         "general"
       ]
     },
     {
-      "id": "NG180",
-      "title": "NG180",
+      "id": "NG109",
+      "title": "NICE NG109 Urinary tract infection lower antimicrobial prescr",
       "source": "NICE",
-      "filename": "NG180.pdf",
-      "path": "/home/exedev/eolas-guidelines/NICE/NG180.pdf",
-      "size_kb": 178,
+      "filename": "NICE_NG109_Urinary_tract_infection_lower_antimicrobial_prescr.pdf",
+      "path": "/home/exedev/eolas-guidelines/NICE/NICE_NG109_Urinary_tract_infection_lower_antimicrobial_prescr.pdf",
+      "size_kb": 257,
       "categories": [
-        "general"
+        "infection"
       ]
     },
     {
-      "id": "NG185",
-      "title": "NG185",
+      "id": "NG10",
+      "title": "NICE NG10 Violence and aggression short term management in m",
       "source": "NICE",
-      "filename": "NG185.pdf",
-      "path": "/home/exedev/eolas-guidelines/NICE/NG185.pdf",
-      "size_kb": 295,
-      "categories": [
-        "general"
-      ]
-    },
-    {
-      "id": "NG21",
-      "title": "NG21",
-      "source": "NICE",
-      "filename": "NG21.pdf",
-      "path": "/home/exedev/eolas-guidelines/NICE/NG21.pdf",
-      "size_kb": 169,
-      "categories": [
-        "general"
-      ]
-    },
-    {
-      "id": "NG28",
-      "title": "NG28",
-      "source": "NICE",
-      "filename": "NG28.pdf",
-      "path": "/home/exedev/eolas-guidelines/NICE/NG28.pdf",
+      "filename": "NICE_NG10_Violence_and_aggression_short-term_management_in_m.pdf",
+      "path": "/home/exedev/eolas-guidelines/NICE/NICE_NG10_Violence_and_aggression_short-term_management_in_m.pdf",
       "size_kb": 317,
       "categories": [
         "general"
       ]
     },
     {
-      "id": "NG32",
-      "title": "NG32",
+      "id": "NG110",
+      "title": "NICE NG110 Prostatitis acute antimicrobial prescribing",
       "source": "NICE",
-      "filename": "NG32.pdf",
-      "path": "/home/exedev/eolas-guidelines/NICE/NG32.pdf",
-      "size_kb": 218,
+      "filename": "NICE_NG110_Prostatitis_acute_antimicrobial_prescribing.pdf",
+      "path": "/home/exedev/eolas-guidelines/NICE/NICE_NG110_Prostatitis_acute_antimicrobial_prescribing.pdf",
+      "size_kb": 163,
       "categories": [
         "general"
       ]
     },
     {
-      "id": "NG33",
-      "title": "NG33",
+      "id": "NG111",
+      "title": "NICE NG111 Pyelonephritis acute antimicrobial prescribing",
       "source": "NICE",
-      "filename": "NG33.pdf",
-      "path": "/home/exedev/eolas-guidelines/NICE/NG33.pdf",
-      "size_kb": 514,
+      "filename": "NICE_NG111_Pyelonephritis_acute_antimicrobial_prescribing.pdf",
+      "path": "/home/exedev/eolas-guidelines/NICE/NICE_NG111_Pyelonephritis_acute_antimicrobial_prescribing.pdf",
+      "size_kb": 210,
       "categories": [
         "general"
       ]
     },
     {
-      "id": "NG34",
-      "title": "NG34",
+      "id": "NG112",
+      "title": "NICE NG112 Urinary tract infection recurrent antimicrobial pr",
       "source": "NICE",
-      "filename": "NG34.pdf",
-      "path": "/home/exedev/eolas-guidelines/NICE/NG34.pdf",
-      "size_kb": 227,
+      "filename": "NICE_NG112_Urinary_tract_infection_recurrent_antimicrobial_pr.pdf",
+      "path": "/home/exedev/eolas-guidelines/NICE/NICE_NG112_Urinary_tract_infection_recurrent_antimicrobial_pr.pdf",
+      "size_kb": 290,
+      "categories": [
+        "infection"
+      ]
+    },
+    {
+      "id": "NG113",
+      "title": "NICE NG113 Urinary tract infection catheter associated antimi",
+      "source": "NICE",
+      "filename": "NICE_NG113_Urinary_tract_infection_catheter-associated_antimi.pdf",
+      "path": "/home/exedev/eolas-guidelines/NICE/NICE_NG113_Urinary_tract_infection_catheter-associated_antimi.pdf",
+      "size_kb": 247,
+      "categories": [
+        "infection"
+      ]
+    },
+    {
+      "id": "NG114",
+      "title": "NICE NG114 Chronic obstructive pulmonary disease acute exacer",
+      "source": "NICE",
+      "filename": "NICE_NG114_Chronic_obstructive_pulmonary_disease_acute_exacer.pdf",
+      "path": "/home/exedev/eolas-guidelines/NICE/NICE_NG114_Chronic_obstructive_pulmonary_disease_acute_exacer.pdf",
+      "size_kb": 201,
+      "categories": [
+        "respiratory"
+      ]
+    },
+    {
+      "id": "NG116",
+      "title": "NICE NG116 Post traumatic stress disorder",
+      "source": "NICE",
+      "filename": "NICE_NG116_Post-traumatic_stress_disorder.pdf",
+      "path": "/home/exedev/eolas-guidelines/NICE/NICE_NG116_Post-traumatic_stress_disorder.pdf",
+      "size_kb": 261,
+      "categories": [
+        "trauma"
+      ]
+    },
+    {
+      "id": "NG117",
+      "title": "NICE NG117 Bronchiectasis non cystic fibrosis acute exacerbat",
+      "source": "NICE",
+      "filename": "NICE_NG117_Bronchiectasis_non-cystic_fibrosis_acute_exacerbat.pdf",
+      "path": "/home/exedev/eolas-guidelines/NICE/NICE_NG117_Bronchiectasis_non-cystic_fibrosis_acute_exacerbat.pdf",
+      "size_kb": 174,
       "categories": [
         "general"
+      ]
+    },
+    {
+      "id": "NG118",
+      "title": "NICE NG118 Renal and ureteric stones assessment and managemen",
+      "source": "NICE",
+      "filename": "NICE_NG118_Renal_and_ureteric_stones_assessment_and_managemen.pdf",
+      "path": "/home/exedev/eolas-guidelines/NICE/NICE_NG118_Renal_and_ureteric_stones_assessment_and_managemen.pdf",
+      "size_kb": 196,
+      "categories": [
+        "general"
+      ]
+    },
+    {
+      "id": "NG120",
+      "title": "NICE NG120 Cough acute antimicrobial prescribing",
+      "source": "NICE",
+      "filename": "NICE_NG120_Cough_acute_antimicrobial_prescribing.pdf",
+      "path": "/home/exedev/eolas-guidelines/NICE/NICE_NG120_Cough_acute_antimicrobial_prescribing.pdf",
+      "size_kb": 267,
+      "categories": [
+        "general"
+      ]
+    },
+    {
+      "id": "NG121",
+      "title": "NICE NG121 Intrapartum care for women with existing medical c",
+      "source": "NICE",
+      "filename": "NICE_NG121_Intrapartum_care_for_women_with_existing_medical_c.pdf",
+      "path": "/home/exedev/eolas-guidelines/NICE/NICE_NG121_Intrapartum_care_for_women_with_existing_medical_c.pdf",
+      "size_kb": 565,
+      "categories": [
+        "general"
+      ]
+    },
+    {
+      "id": "NG122",
+      "title": "NICE NG122 Lung cancer diagnosis and management",
+      "source": "NICE",
+      "filename": "NICE_NG122_Lung_cancer_diagnosis_and_management.pdf",
+      "path": "/home/exedev/eolas-guidelines/NICE/NICE_NG122_Lung_cancer_diagnosis_and_management.pdf",
+      "size_kb": 249,
+      "categories": [
+        "general"
+      ]
+    },
+    {
+      "id": "NG123",
+      "title": "NICE NG123 Urinary incontinence and pelvic organ prolapse in",
+      "source": "NICE",
+      "filename": "NICE_NG123_Urinary_incontinence_and_pelvic_organ_prolapse_in_.pdf",
+      "path": "/home/exedev/eolas-guidelines/NICE/NICE_NG123_Urinary_incontinence_and_pelvic_organ_prolapse_in_.pdf",
+      "size_kb": 407,
+      "categories": [
+        "general"
+      ]
+    },
+    {
+      "id": "NG124",
+      "title": "NICE NG124 Specialist neonatal respiratory care for babies bo",
+      "source": "NICE",
+      "filename": "NICE_NG124_Specialist_neonatal_respiratory_care_for_babies_bo.pdf",
+      "path": "/home/exedev/eolas-guidelines/NICE/NICE_NG124_Specialist_neonatal_respiratory_care_for_babies_bo.pdf",
+      "size_kb": 281,
+      "categories": [
+        "paediatric",
+        "respiratory"
+      ]
+    },
+    {
+      "id": "NG125",
+      "title": "NICE NG125 Surgical site infections prevention and treatment",
+      "source": "NICE",
+      "filename": "NICE_NG125_Surgical_site_infections_prevention_and_treatment.pdf",
+      "path": "/home/exedev/eolas-guidelines/NICE/NICE_NG125_Surgical_site_infections_prevention_and_treatment.pdf",
+      "size_kb": 163,
+      "categories": [
+        "infection"
+      ]
+    },
+    {
+      "id": "NG126",
+      "title": "NICE NG126 Ectopic pregnancy and miscarriage diagnosis and in",
+      "source": "NICE",
+      "filename": "NICE_NG126_Ectopic_pregnancy_and_miscarriage_diagnosis_and_in.pdf",
+      "path": "/home/exedev/eolas-guidelines/NICE/NICE_NG126_Ectopic_pregnancy_and_miscarriage_diagnosis_and_in.pdf",
+      "size_kb": 206,
+      "categories": [
+        "general"
+      ]
+    },
+    {
+      "id": "NG128",
+      "title": "NICE NG128 Stroke and transient ischaemic attack in over 16s",
+      "source": "NICE",
+      "filename": "NICE_NG128_Stroke_and_transient_ischaemic_attack_in_over_16s_.pdf",
+      "path": "/home/exedev/eolas-guidelines/NICE/NICE_NG128_Stroke_and_transient_ischaemic_attack_in_over_16s_.pdf",
+      "size_kb": 259,
+      "categories": [
+        "neurology"
+      ]
+    },
+    {
+      "id": "NG12",
+      "title": "NICE NG12 Suspected cancer recognition and referral",
+      "source": "NICE",
+      "filename": "NICE_NG12_Suspected_cancer_recognition_and_referral.pdf",
+      "path": "/home/exedev/eolas-guidelines/NICE/NICE_NG12_Suspected_cancer_recognition_and_referral.pdf",
+      "size_kb": 486,
+      "categories": [
+        "general"
+      ]
+    },
+    {
+      "id": "NG131",
+      "title": "NICE NG131 Prostate cancer diagnosis and management",
+      "source": "NICE",
+      "filename": "NICE_NG131_Prostate_cancer_diagnosis_and_management.pdf",
+      "path": "/home/exedev/eolas-guidelines/NICE/NICE_NG131_Prostate_cancer_diagnosis_and_management.pdf",
+      "size_kb": 312,
+      "categories": [
+        "general"
+      ]
+    },
+    {
+      "id": "NG132",
+      "title": "NICE NG132 Hyperparathyroidism primary diagnosis assessment a",
+      "source": "NICE",
+      "filename": "NICE_NG132_Hyperparathyroidism_primary_diagnosis_assessment_a.pdf",
+      "path": "/home/exedev/eolas-guidelines/NICE/NICE_NG132_Hyperparathyroidism_primary_diagnosis_assessment_a.pdf",
+      "size_kb": 191,
+      "categories": [
+        "general"
+      ]
+    },
+    {
+      "id": "NG133",
+      "title": "NICE NG133 Hypertension in pregnancy diagnosis and management",
+      "source": "NICE",
+      "filename": "NICE_NG133_Hypertension_in_pregnancy_diagnosis_and_management.pdf",
+      "path": "/home/exedev/eolas-guidelines/NICE/NICE_NG133_Hypertension_in_pregnancy_diagnosis_and_management.pdf",
+      "size_kb": 314,
+      "categories": [
+        "cardiovascular"
+      ]
+    },
+    {
+      "id": "NG134",
+      "title": "NICE NG134 Depression in children and young people identifica",
+      "source": "NICE",
+      "filename": "NICE_NG134_Depression_in_children_and_young_people_identifica.pdf",
+      "path": "/home/exedev/eolas-guidelines/NICE/NICE_NG134_Depression_in_children_and_young_people_identifica.pdf",
+      "size_kb": 246,
+      "categories": [
+        "paediatric",
+        "mental-health"
+      ]
+    },
+    {
+      "id": "NG135",
+      "title": "NICE NG135 Alcohol interventions in secondary and further edu",
+      "source": "NICE",
+      "filename": "NICE_NG135_Alcohol_interventions_in_secondary_and_further_edu.pdf",
+      "path": "/home/exedev/eolas-guidelines/NICE/NICE_NG135_Alcohol_interventions_in_secondary_and_further_edu.pdf",
+      "size_kb": 196,
+      "categories": [
+        "general"
+      ]
+    },
+    {
+      "id": "NG137",
+      "title": "NICE NG137 Twin and triplet pregnancy",
+      "source": "NICE",
+      "filename": "NICE_NG137_Twin_and_triplet_pregnancy.pdf",
+      "path": "/home/exedev/eolas-guidelines/NICE/NICE_NG137_Twin_and_triplet_pregnancy.pdf",
+      "size_kb": 344,
+      "categories": [
+        "general"
+      ]
+    },
+    {
+      "id": "NG143",
+      "title": "NICE NG143 Fever in under 5s assessment and initial managemen",
+      "source": "NICE",
+      "filename": "NICE_NG143_Fever_in_under_5s_assessment_and_initial_managemen.pdf",
+      "path": "/home/exedev/eolas-guidelines/NICE/NICE_NG143_Fever_in_under_5s_assessment_and_initial_managemen.pdf",
+      "size_kb": 212,
+      "categories": [
+        "general"
+      ]
+    },
+    {
+      "id": "NG148",
+      "title": "NICE NG148 Acute kidney injury prevention detection and manag",
+      "source": "NICE",
+      "filename": "NICE_NG148_Acute_kidney_injury_prevention_detection_and_manag.pdf",
+      "path": "/home/exedev/eolas-guidelines/NICE/NICE_NG148_Acute_kidney_injury_prevention_detection_and_manag.pdf",
+      "size_kb": 183,
+      "categories": [
+        "trauma"
+      ]
+    },
+    {
+      "id": "NG151",
+      "title": "NICE NG151 Colorectal cancer",
+      "source": "NICE",
+      "filename": "NICE_NG151_Colorectal_cancer.pdf",
+      "path": "/home/exedev/eolas-guidelines/NICE/NICE_NG151_Colorectal_cancer.pdf",
+      "size_kb": 273,
+      "categories": [
+        "general"
+      ]
+    },
+    {
+      "id": "NG152",
+      "title": "NICE NG152 Leg ulcer infection antimicrobial prescribing",
+      "source": "NICE",
+      "filename": "NICE_NG152_Leg_ulcer_infection_antimicrobial_prescribing.pdf",
+      "path": "/home/exedev/eolas-guidelines/NICE/NICE_NG152_Leg_ulcer_infection_antimicrobial_prescribing.pdf",
+      "size_kb": 201,
+      "categories": [
+        "infection"
+      ]
+    },
+    {
+      "id": "NG154",
+      "title": "NICE NG154 Neonatal parenteral nutrition",
+      "source": "NICE",
+      "filename": "NICE_NG154_Neonatal_parenteral_nutrition.pdf",
+      "path": "/home/exedev/eolas-guidelines/NICE/NICE_NG154_Neonatal_parenteral_nutrition.pdf",
+      "size_kb": 290,
+      "categories": [
+        "paediatric"
+      ]
+    },
+    {
+      "id": "NG16",
+      "title": "NICE NG16 Dementia disability and frailty in later life mid",
+      "source": "NICE",
+      "filename": "NICE_NG16_Dementia_disability_and_frailty_in_later_life_mid-.pdf",
+      "path": "/home/exedev/eolas-guidelines/NICE/NICE_NG16_Dementia_disability_and_frailty_in_later_life_mid-.pdf",
+      "size_kb": 292,
+      "categories": [
+        "general"
+      ]
+    },
+    {
+      "id": "NG17",
+      "title": "NICE NG17 Type 1 diabetes in adults diagnosis and management",
+      "source": "NICE",
+      "filename": "NICE_NG17_Type_1_diabetes_in_adults_diagnosis_and_management.pdf",
+      "path": "/home/exedev/eolas-guidelines/NICE/NICE_NG17_Type_1_diabetes_in_adults_diagnosis_and_management.pdf",
+      "size_kb": 328,
+      "categories": [
+        "general"
+      ]
+    },
+    {
+      "id": "NG181",
+      "title": "NICE NG181 Rehabilitation for adults with complex psychosis",
+      "source": "NICE",
+      "filename": "NICE_NG181_Rehabilitation_for_adults_with_complex_psychosis.pdf",
+      "path": "/home/exedev/eolas-guidelines/NICE/NICE_NG181_Rehabilitation_for_adults_with_complex_psychosis.pdf",
+      "size_kb": 403,
+      "categories": [
+        "mental-health"
+      ]
+    },
+    {
+      "id": "NG185",
+      "title": "NICE NG185 Acute coronary syndromes",
+      "source": "NICE",
+      "filename": "NICE_NG185_Acute_coronary_syndromes.pdf",
+      "path": "/home/exedev/eolas-guidelines/NICE/NICE_NG185_Acute_coronary_syndromes.pdf",
+      "size_kb": 295,
+      "categories": [
+        "cardiovascular"
+      ]
+    },
+    {
+      "id": "NG189",
+      "title": "NICE NG189 Safeguarding adults in care homes",
+      "source": "NICE",
+      "filename": "NICE_NG189_Safeguarding_adults_in_care_homes.pdf",
+      "path": "/home/exedev/eolas-guidelines/NICE/NICE_NG189_Safeguarding_adults_in_care_homes.pdf",
+      "size_kb": 499,
+      "categories": [
+        "safeguarding"
+      ]
+    },
+    {
+      "id": "NG18",
+      "title": "NICE NG18 Diabetes type 1 and type 2 in children and young p",
+      "source": "NICE",
+      "filename": "NICE_NG18_Diabetes_type_1_and_type_2_in_children_and_young_p.pdf",
+      "path": "/home/exedev/eolas-guidelines/NICE/NICE_NG18_Diabetes_type_1_and_type_2_in_children_and_young_p.pdf",
+      "size_kb": 452,
+      "categories": [
+        "paediatric"
+      ]
+    },
+    {
+      "id": "NG190",
+      "title": "NICE NG190 Secondary bacterial infection of eczema and other",
+      "source": "NICE",
+      "filename": "NICE_NG190_Secondary_bacterial_infection_of_eczema_and_other_.pdf",
+      "path": "/home/exedev/eolas-guidelines/NICE/NICE_NG190_Secondary_bacterial_infection_of_eczema_and_other_.pdf",
+      "size_kb": 208,
+      "categories": [
+        "infection"
+      ]
+    },
+    {
+      "id": "NG193",
+      "title": "NICE NG193 Chronic pain primary and secondary in over 16s ass",
+      "source": "NICE",
+      "filename": "NICE_NG193_Chronic_pain_primary_and_secondary_in_over_16s_ass.pdf",
+      "path": "/home/exedev/eolas-guidelines/NICE/NICE_NG193_Chronic_pain_primary_and_secondary_in_over_16s_ass.pdf",
+      "size_kb": 251,
+      "categories": [
+        "pain-sedation"
+      ]
+    },
+    {
+      "id": "NG195",
+      "title": "NICE NG195 Neonatal infection antibiotics for prevention and",
+      "source": "NICE",
+      "filename": "NICE_NG195_Neonatal_infection_antibiotics_for_prevention_and_.pdf",
+      "path": "/home/exedev/eolas-guidelines/NICE/NICE_NG195_Neonatal_infection_antibiotics_for_prevention_and_.pdf",
+      "size_kb": 431,
+      "categories": [
+        "infection",
+        "paediatric"
+      ]
+    },
+    {
+      "id": "NG196",
+      "title": "NICE NG196 Atrial fibrillation diagnosis and management",
+      "source": "NICE",
+      "filename": "NICE_NG196_Atrial_fibrillation_diagnosis_and_management.pdf",
+      "path": "/home/exedev/eolas-guidelines/NICE/NICE_NG196_Atrial_fibrillation_diagnosis_and_management.pdf",
+      "size_kb": 286,
+      "categories": [
+        "general"
+      ]
+    },
+    {
+      "id": "NG199",
+      "title": "NICE NG199 Clostridioides difficile infection antimicrobial p",
+      "source": "NICE",
+      "filename": "NICE_NG199_Clostridioides_difficile_infection_antimicrobial_p.pdf",
+      "path": "/home/exedev/eolas-guidelines/NICE/NICE_NG199_Clostridioides_difficile_infection_antimicrobial_p.pdf",
+      "size_kb": 282,
+      "categories": [
+        "infection"
+      ]
+    },
+    {
+      "id": "NG1",
+      "title": "NICE NG1 Gastro oesophageal reflux disease in children and",
+      "source": "NICE",
+      "filename": "NICE_NG1_Gastro-oesophageal_reflux_disease_in_children_and_.pdf",
+      "path": "/home/exedev/eolas-guidelines/NICE/NICE_NG1_Gastro-oesophageal_reflux_disease_in_children_and_.pdf",
+      "size_kb": 158,
+      "categories": [
+        "paediatric"
+      ]
+    },
+    {
+      "id": "NG203",
+      "title": "NICE NG203 Chronic kidney disease assessment and management",
+      "source": "NICE",
+      "filename": "NICE_NG203_Chronic_kidney_disease_assessment_and_management.pdf",
+      "path": "/home/exedev/eolas-guidelines/NICE/NICE_NG203_Chronic_kidney_disease_assessment_and_management.pdf",
+      "size_kb": 402,
+      "categories": [
+        "general"
+      ]
+    },
+    {
+      "id": "NG204",
+      "title": "NICE NG204 Babies children and young peoples experience of he",
+      "source": "NICE",
+      "filename": "NICE_NG204_Babies_children_and_young_peoples_experience_of_he.pdf",
+      "path": "/home/exedev/eolas-guidelines/NICE/NICE_NG204_Babies_children_and_young_peoples_experience_of_he.pdf",
+      "size_kb": 326,
+      "categories": [
+        "paediatric"
+      ]
+    },
+    {
+      "id": "NG205",
+      "title": "NICE NG205 Looked after children and young people",
+      "source": "NICE",
+      "filename": "NICE_NG205_Looked-after_children_and_young_people.pdf",
+      "path": "/home/exedev/eolas-guidelines/NICE/NICE_NG205_Looked-after_children_and_young_people.pdf",
+      "size_kb": 616,
+      "categories": [
+        "paediatric"
+      ]
+    },
+    {
+      "id": "NG208",
+      "title": "NICE NG208 Heart valve disease presenting in adults investiga",
+      "source": "NICE",
+      "filename": "NICE_NG208_Heart_valve_disease_presenting_in_adults_investiga.pdf",
+      "path": "/home/exedev/eolas-guidelines/NICE/NICE_NG208_Heart_valve_disease_presenting_in_adults_investiga.pdf",
+      "size_kb": 325,
+      "categories": [
+        "cardiovascular"
+      ]
+    },
+    {
+      "id": "NG211",
+      "title": "NICE NG211 Rehabilitation after traumatic injury",
+      "source": "NICE",
+      "filename": "NICE_NG211_Rehabilitation_after_traumatic_injury.pdf",
+      "path": "/home/exedev/eolas-guidelines/NICE/NICE_NG211_Rehabilitation_after_traumatic_injury.pdf",
+      "size_kb": 653,
+      "categories": [
+        "trauma"
+      ]
+    },
+    {
+      "id": "NG213",
+      "title": "NICE NG213 Disabled children and young people up to 25 with s",
+      "source": "NICE",
+      "filename": "NICE_NG213_Disabled_children_and_young_people_up_to_25_with_s.pdf",
+      "path": "/home/exedev/eolas-guidelines/NICE/NICE_NG213_Disabled_children_and_young_people_up_to_25_with_s.pdf",
+      "size_kb": 753,
+      "categories": [
+        "paediatric"
+      ]
+    },
+    {
+      "id": "NG217",
+      "title": "NICE NG217 Epilepsies in children young people and adults",
+      "source": "NICE",
+      "filename": "NICE_NG217_Epilepsies_in_children_young_people_and_adults.pdf",
+      "path": "/home/exedev/eolas-guidelines/NICE/NICE_NG217_Epilepsies_in_children_young_people_and_adults.pdf",
+      "size_kb": 693,
+      "categories": [
+        "paediatric"
+      ]
+    },
+    {
+      "id": "NG221",
+      "title": "NICE NG221 Reducing sexually transmitted infections",
+      "source": "NICE",
+      "filename": "NICE_NG221_Reducing_sexually_transmitted_infections.pdf",
+      "path": "/home/exedev/eolas-guidelines/NICE/NICE_NG221_Reducing_sexually_transmitted_infections.pdf",
+      "size_kb": 266,
+      "categories": [
+        "infection"
+      ]
+    },
+    {
+      "id": "NG224",
+      "title": "NICE NG224 Urinary tract infection in under 16s diagnosis and",
+      "source": "NICE",
+      "filename": "NICE_NG224_Urinary_tract_infection_in_under_16s_diagnosis_and.pdf",
+      "path": "/home/exedev/eolas-guidelines/NICE/NICE_NG224_Urinary_tract_infection_in_under_16s_diagnosis_and.pdf",
+      "size_kb": 180,
+      "categories": [
+        "infection"
+      ]
+    },
+    {
+      "id": "NG225",
+      "title": "NICE NG225 Self harm assessment management and preventing rec",
+      "source": "NICE",
+      "filename": "NICE_NG225_Self-harm_assessment_management_and_preventing_rec.pdf",
+      "path": "/home/exedev/eolas-guidelines/NICE/NICE_NG225_Self-harm_assessment_management_and_preventing_rec.pdf",
+      "size_kb": 372,
+      "categories": [
+        "general"
+      ]
+    },
+    {
+      "id": "NG230",
+      "title": "NICE NG230 Thyroid cancer assessment and management",
+      "source": "NICE",
+      "filename": "NICE_NG230_Thyroid_cancer_assessment_and_management.pdf",
+      "path": "/home/exedev/eolas-guidelines/NICE/NICE_NG230_Thyroid_cancer_assessment_and_management.pdf",
+      "size_kb": 286,
+      "categories": [
+        "general"
+      ]
+    },
+    {
+      "id": "NG232",
+      "title": "NICE NG232 Head injury assessment and early management",
+      "source": "NICE",
+      "filename": "NICE_NG232_Head_injury_assessment_and_early_management.pdf",
+      "path": "/home/exedev/eolas-guidelines/NICE/NICE_NG232_Head_injury_assessment_and_early_management.pdf",
+      "size_kb": 383,
+      "categories": [
+        "trauma"
+      ]
+    },
+    {
+      "id": "NG236",
+      "title": "NICE NG236 Stroke rehabilitation in adults",
+      "source": "NICE",
+      "filename": "NICE_NG236_Stroke_rehabilitation_in_adults.pdf",
+      "path": "/home/exedev/eolas-guidelines/NICE/NICE_NG236_Stroke_rehabilitation_in_adults.pdf",
+      "size_kb": 364,
+      "categories": [
+        "neurology"
+      ]
+    },
+    {
+      "id": "NG237",
+      "title": "NICE NG237 Suspected acute respiratory infection in over 16s",
+      "source": "NICE",
+      "filename": "NICE_NG237_Suspected_acute_respiratory_infection_in_over_16s_.pdf",
+      "path": "/home/exedev/eolas-guidelines/NICE/NICE_NG237_Suspected_acute_respiratory_infection_in_over_16s_.pdf",
+      "size_kb": 125,
+      "categories": [
+        "infection",
+        "respiratory"
+      ]
+    },
+    {
+      "id": "NG240",
+      "title": "NICE NG240 Meningitis bacterial and meningococcal disease rec",
+      "source": "NICE",
+      "filename": "NICE_NG240_Meningitis_bacterial_and_meningococcal_disease_rec.pdf",
+      "path": "/home/exedev/eolas-guidelines/NICE/NICE_NG240_Meningitis_bacterial_and_meningococcal_disease_rec.pdf",
+      "size_kb": 464,
+      "categories": [
+        "infection"
+      ]
+    },
+    {
+      "id": "NG241",
+      "title": "NICE NG241 Ovarian cancer identifying and managing familial a",
+      "source": "NICE",
+      "filename": "NICE_NG241_Ovarian_cancer_identifying_and_managing_familial_a.pdf",
+      "path": "/home/exedev/eolas-guidelines/NICE/NICE_NG241_Ovarian_cancer_identifying_and_managing_familial_a.pdf",
+      "size_kb": 354,
+      "categories": [
+        "general"
+      ]
+    },
+    {
+      "id": "NG243",
+      "title": "NICE NG243 Adrenal insufficiency identification and managemen",
+      "source": "NICE",
+      "filename": "NICE_NG243_Adrenal_insufficiency_identification_and_managemen.pdf",
+      "path": "/home/exedev/eolas-guidelines/NICE/NICE_NG243_Adrenal_insufficiency_identification_and_managemen.pdf",
+      "size_kb": 338,
+      "categories": [
+        "general"
+      ]
+    },
+    {
+      "id": "NG244",
+      "title": "NICE NG244 Asthma pathway BTS NICE SIGN",
+      "source": "NICE",
+      "filename": "NICE_NG244_Asthma_pathway_BTS_NICE_SIGN.pdf",
+      "path": "/home/exedev/eolas-guidelines/NICE/NICE_NG244_Asthma_pathway_BTS_NICE_SIGN.pdf",
+      "size_kb": 159,
+      "categories": [
+        "respiratory"
+      ]
+    },
+    {
+      "id": "NG245",
+      "title": "NICE NG245 Asthma diagnosis monitoring and chronic asthma man",
+      "source": "NICE",
+      "filename": "NICE_NG245_Asthma_diagnosis_monitoring_and_chronic_asthma_man.pdf",
+      "path": "/home/exedev/eolas-guidelines/NICE/NICE_NG245_Asthma_diagnosis_monitoring_and_chronic_asthma_man.pdf",
+      "size_kb": 403,
+      "categories": [
+        "respiratory"
+      ]
+    },
+    {
+      "id": "NG247",
+      "title": "NICE NG247 Maternal and child nutrition nutrition and weight",
+      "source": "NICE",
+      "filename": "NICE_NG247_Maternal_and_child_nutrition_nutrition_and_weight_.pdf",
+      "path": "/home/exedev/eolas-guidelines/NICE/NICE_NG247_Maternal_and_child_nutrition_nutrition_and_weight_.pdf",
+      "size_kb": 339,
+      "categories": [
+        "paediatric"
+      ]
+    },
+    {
+      "id": "NG249",
+      "title": "NICE NG249 Falls assessment and prevention in older people an",
+      "source": "NICE",
+      "filename": "NICE_NG249_Falls_assessment_and_prevention_in_older_people_an.pdf",
+      "path": "/home/exedev/eolas-guidelines/NICE/NICE_NG249_Falls_assessment_and_prevention_in_older_people_an.pdf",
+      "size_kb": 223,
+      "categories": [
+        "general"
+      ]
+    },
+    {
+      "id": "NG250",
+      "title": "NICE NG250 Pneumonia diagnosis and management",
+      "source": "NICE",
+      "filename": "NICE_NG250_Pneumonia_diagnosis_and_management.pdf",
+      "path": "/home/exedev/eolas-guidelines/NICE/NICE_NG250_Pneumonia_diagnosis_and_management.pdf",
+      "size_kb": 311,
+      "categories": [
+        "infection",
+        "respiratory"
+      ]
+    },
+    {
+      "id": "NG253",
+      "title": "NICE NG253 Suspected sepsis in people aged 16 or over recogni",
+      "source": "NICE",
+      "filename": "NICE_NG253_Suspected_sepsis_in_people_aged_16_or_over_recogni.pdf",
+      "path": "/home/exedev/eolas-guidelines/NICE/NICE_NG253_Suspected_sepsis_in_people_aged_16_or_over_recogni.pdf",
+      "size_kb": 391,
+      "categories": [
+        "infection"
+      ]
+    },
+    {
+      "id": "NG254",
+      "title": "NICE NG254 Suspected sepsis in under 16s recognition diagnosi",
+      "source": "NICE",
+      "filename": "NICE_NG254_Suspected_sepsis_in_under_16s_recognition_diagnosi.pdf",
+      "path": "/home/exedev/eolas-guidelines/NICE/NICE_NG254_Suspected_sepsis_in_under_16s_recognition_diagnosi.pdf",
+      "size_kb": 276,
+      "categories": [
+        "infection"
+      ]
+    },
+    {
+      "id": "NG255",
+      "title": "NICE NG255 Suspected sepsis in pregnant or recently pregnant",
+      "source": "NICE",
+      "filename": "NICE_NG255_Suspected_sepsis_in_pregnant_or_recently_pregnant_.pdf",
+      "path": "/home/exedev/eolas-guidelines/NICE/NICE_NG255_Suspected_sepsis_in_pregnant_or_recently_pregnant_.pdf",
+      "size_kb": 229,
+      "categories": [
+        "infection"
+      ]
+    },
+    {
+      "id": "NG26",
+      "title": "NICE NG26 Childrens attachment attachment in children and yo",
+      "source": "NICE",
+      "filename": "NICE_NG26_Childrens_attachment_attachment_in_children_and_yo.pdf",
+      "path": "/home/exedev/eolas-guidelines/NICE/NICE_NG26_Childrens_attachment_attachment_in_children_and_yo.pdf",
+      "size_kb": 251,
+      "categories": [
+        "paediatric"
+      ]
+    },
+    {
+      "id": "NG28",
+      "title": "NICE NG28 Type 2 diabetes in adults management",
+      "source": "NICE",
+      "filename": "NICE_NG28_Type_2_diabetes_in_adults_management.pdf",
+      "path": "/home/exedev/eolas-guidelines/NICE/NICE_NG28_Type_2_diabetes_in_adults_management.pdf",
+      "size_kb": 317,
+      "categories": [
+        "general"
+      ]
+    },
+    {
+      "id": "NG29",
+      "title": "NICE NG29 Intravenous fluid therapy in children and young pe",
+      "source": "NICE",
+      "filename": "NICE_NG29_Intravenous_fluid_therapy_in_children_and_young_pe.pdf",
+      "path": "/home/exedev/eolas-guidelines/NICE/NICE_NG29_Intravenous_fluid_therapy_in_children_and_young_pe.pdf",
+      "size_kb": 183,
+      "categories": [
+        "paediatric"
+      ]
+    },
+    {
+      "id": "NG2",
+      "title": "NICE NG2 Bladder cancer diagnosis and management",
+      "source": "NICE",
+      "filename": "NICE_NG2_Bladder_cancer_diagnosis_and_management.pdf",
+      "path": "/home/exedev/eolas-guidelines/NICE/NICE_NG2_Bladder_cancer_diagnosis_and_management.pdf",
+      "size_kb": 160,
+      "categories": [
+        "general"
+      ]
+    },
+    {
+      "id": "NG36",
+      "title": "NICE NG36 Cancer of the upper aerodigestive tract assessment",
+      "source": "NICE",
+      "filename": "NICE_NG36_Cancer_of_the_upper_aerodigestive_tract_assessment.pdf",
+      "path": "/home/exedev/eolas-guidelines/NICE/NICE_NG36_Cancer_of_the_upper_aerodigestive_tract_assessment.pdf",
+      "size_kb": 152,
+      "categories": [
+        "general"
+      ]
+    },
+    {
+      "id": "NG37",
+      "title": "NICE NG37 Fractures complex assessment and management",
+      "source": "NICE",
+      "filename": "NICE_NG37_Fractures_complex_assessment_and_management.pdf",
+      "path": "/home/exedev/eolas-guidelines/NICE/NICE_NG37_Fractures_complex_assessment_and_management.pdf",
+      "size_kb": 150,
+      "categories": [
+        "trauma"
       ]
     },
     {
       "id": "NG38",
-      "title": "NG38",
+      "title": "NICE NG38 Fractures non complex assessment and management",
       "source": "NICE",
-      "filename": "NG38.pdf",
-      "path": "/home/exedev/eolas-guidelines/NICE/NG38.pdf",
+      "filename": "NICE_NG38_Fractures_non-complex_assessment_and_management.pdf",
+      "path": "/home/exedev/eolas-guidelines/NICE/NICE_NG38_Fractures_non-complex_assessment_and_management.pdf",
       "size_kb": 120,
       "categories": [
-        "general"
+        "trauma"
       ]
     },
     {
       "id": "NG39",
-      "title": "NG39",
+      "title": "NICE NG39 Major trauma assessment and initial management",
       "source": "NICE",
-      "filename": "NG39.pdf",
-      "path": "/home/exedev/eolas-guidelines/NICE/NG39.pdf",
+      "filename": "NICE_NG39_Major_trauma_assessment_and_initial_management.pdf",
+      "path": "/home/exedev/eolas-guidelines/NICE/NICE_NG39_Major_trauma_assessment_and_initial_management.pdf",
       "size_kb": 138,
+      "categories": [
+        "trauma"
+      ]
+    },
+    {
+      "id": "NG3",
+      "title": "NICE NG3 Diabetes in pregnancy management from preconceptio",
+      "source": "NICE",
+      "filename": "NICE_NG3_Diabetes_in_pregnancy_management_from_preconceptio.pdf",
+      "path": "/home/exedev/eolas-guidelines/NICE/NICE_NG3_Diabetes_in_pregnancy_management_from_preconceptio.pdf",
+      "size_kb": 220,
       "categories": [
         "general"
       ]
     },
     {
       "id": "NG40",
-      "title": "NG40",
+      "title": "NICE NG40 Major trauma service delivery",
       "source": "NICE",
-      "filename": "NG40.pdf",
-      "path": "/home/exedev/eolas-guidelines/NICE/NG40.pdf",
+      "filename": "NICE_NG40_Major_trauma_service_delivery.pdf",
+      "path": "/home/exedev/eolas-guidelines/NICE/NICE_NG40_Major_trauma_service_delivery.pdf",
       "size_kb": 153,
       "categories": [
-        "general"
+        "trauma"
+      ]
+    },
+    {
+      "id": "NG41",
+      "title": "NICE NG41 Spinal injury assessment and initial management",
+      "source": "NICE",
+      "filename": "NICE_NG41_Spinal_injury_assessment_and_initial_management.pdf",
+      "path": "/home/exedev/eolas-guidelines/NICE/NICE_NG41_Spinal_injury_assessment_and_initial_management.pdf",
+      "size_kb": 150,
+      "categories": [
+        "trauma"
       ]
     },
     {
       "id": "NG43",
-      "title": "NG43",
+      "title": "NICE NG43 Transition from childrens to adults services for y",
       "source": "NICE",
-      "filename": "NG43.pdf",
-      "path": "/home/exedev/eolas-guidelines/NICE/NG43.pdf",
+      "filename": "NICE_NG43_Transition_from_childrens_to_adults_services_for_y.pdf",
+      "path": "/home/exedev/eolas-guidelines/NICE/NICE_NG43_Transition_from_childrens_to_adults_services_for_y.pdf",
       "size_kb": 195,
       "categories": [
-        "general"
+        "paediatric"
       ]
     },
     {
       "id": "NG45",
-      "title": "NG45",
+      "title": "NICE NG45 Routine preoperative tests for elective surgery",
       "source": "NICE",
-      "filename": "NG45.pdf",
-      "path": "/home/exedev/eolas-guidelines/NICE/NG45.pdf",
+      "filename": "NICE_NG45_Routine_preoperative_tests_for_elective_surgery.pdf",
+      "path": "/home/exedev/eolas-guidelines/NICE/NICE_NG45_Routine_preoperative_tests_for_elective_surgery.pdf",
       "size_kb": 109,
       "categories": [
         "general"
@@ -1029,330 +2229,354 @@
     },
     {
       "id": "NG47",
-      "title": "NG47",
+      "title": "NICE NG47 Haematological cancers improving outcomes",
       "source": "NICE",
-      "filename": "NG47.pdf",
-      "path": "/home/exedev/eolas-guidelines/NICE/NG47.pdf",
+      "filename": "NICE_NG47_Haematological_cancers_improving_outcomes.pdf",
+      "path": "/home/exedev/eolas-guidelines/NICE/NICE_NG47_Haematological_cancers_improving_outcomes.pdf",
       "size_kb": 147,
-      "categories": [
-        "general"
-      ]
-    },
-    {
-      "id": "NG48",
-      "title": "NG48",
-      "source": "NICE",
-      "filename": "NG48.pdf",
-      "path": "/home/exedev/eolas-guidelines/NICE/NG48.pdf",
-      "size_kb": 210,
       "categories": [
         "general"
       ]
     },
     {
       "id": "NG49",
-      "title": "NG49",
+      "title": "NICE NG49 Non alcoholic fatty liver disease NAFLD assessment",
       "source": "NICE",
-      "filename": "NG49.pdf",
-      "path": "/home/exedev/eolas-guidelines/NICE/NG49.pdf",
+      "filename": "NICE_NG49_Non-alcoholic_fatty_liver_disease_NAFLD_assessment.pdf",
+      "path": "/home/exedev/eolas-guidelines/NICE/NICE_NG49_Non-alcoholic_fatty_liver_disease_NAFLD_assessment.pdf",
       "size_kb": 107,
       "categories": [
         "general"
       ]
     },
     {
-      "id": "NG50",
-      "title": "NG50",
-      "source": "NICE",
-      "filename": "NG50.pdf",
-      "path": "/home/exedev/eolas-guidelines/NICE/NG50.pdf",
-      "size_kb": 150,
-      "categories": [
-        "general"
-      ]
-    },
-    {
-      "id": "NG52",
-      "title": "NG52",
-      "source": "NICE",
-      "filename": "NG52.pdf",
-      "path": "/home/exedev/eolas-guidelines/NICE/NG52.pdf",
-      "size_kb": 168,
-      "categories": [
-        "general"
-      ]
-    },
-    {
       "id": "NG53",
-      "title": "NG53",
+      "title": "NICE NG53 Transition between inpatient mental health setting",
       "source": "NICE",
-      "filename": "NG53.pdf",
-      "path": "/home/exedev/eolas-guidelines/NICE/NG53.pdf",
+      "filename": "NICE_NG53_Transition_between_inpatient_mental_health_setting.pdf",
+      "path": "/home/exedev/eolas-guidelines/NICE/NICE_NG53_Transition_between_inpatient_mental_health_setting.pdf",
       "size_kb": 202,
       "categories": [
-        "general"
+        "mental-health"
       ]
     },
     {
       "id": "NG54",
-      "title": "NG54",
+      "title": "NICE NG54 Mental health problems in people with learning dis",
       "source": "NICE",
-      "filename": "NG54.pdf",
-      "path": "/home/exedev/eolas-guidelines/NICE/NG54.pdf",
+      "filename": "NICE_NG54_Mental_health_problems_in_people_with_learning_dis.pdf",
+      "path": "/home/exedev/eolas-guidelines/NICE/NICE_NG54_Mental_health_problems_in_people_with_learning_dis.pdf",
       "size_kb": 195,
       "categories": [
-        "general"
+        "mental-health"
       ]
     },
     {
       "id": "NG55",
-      "title": "NG55",
+      "title": "NICE NG55 Harmful sexual behaviour among children and young",
       "source": "NICE",
-      "filename": "NG55.pdf",
-      "path": "/home/exedev/eolas-guidelines/NICE/NG55.pdf",
+      "filename": "NICE_NG55_Harmful_sexual_behaviour_among_children_and_young_.pdf",
+      "path": "/home/exedev/eolas-guidelines/NICE/NICE_NG55_Harmful_sexual_behaviour_among_children_and_young_.pdf",
       "size_kb": 318,
       "categories": [
-        "general"
+        "paediatric"
+      ]
+    },
+    {
+      "id": "NG59",
+      "title": "NICE NG59 Low back pain and sciatica in over 16s assessment",
+      "source": "NICE",
+      "filename": "NICE_NG59_Low_back_pain_and_sciatica_in_over_16s_assessment_.pdf",
+      "path": "/home/exedev/eolas-guidelines/NICE/NICE_NG59_Low_back_pain_and_sciatica_in_over_16s_assessment_.pdf",
+      "size_kb": 124,
+      "categories": [
+        "pain-sedation"
+      ]
+    },
+    {
+      "id": "NG61",
+      "title": "NICE NG61 End of life care for infants children and young pe",
+      "source": "NICE",
+      "filename": "NICE_NG61_End_of_life_care_for_infants_children_and_young_pe.pdf",
+      "path": "/home/exedev/eolas-guidelines/NICE/NICE_NG61_End_of_life_care_for_infants_children_and_young_pe.pdf",
+      "size_kb": 231,
+      "categories": [
+        "paediatric"
       ]
     },
     {
       "id": "NG64",
-      "title": "NG64",
+      "title": "NICE NG64 Drug misuse prevention targeted interventions",
       "source": "NICE",
-      "filename": "NG64.pdf",
-      "path": "/home/exedev/eolas-guidelines/NICE/NG64.pdf",
+      "filename": "NICE_NG64_Drug_misuse_prevention_targeted_interventions.pdf",
+      "path": "/home/exedev/eolas-guidelines/NICE/NICE_NG64_Drug_misuse_prevention_targeted_interventions.pdf",
       "size_kb": 312,
       "categories": [
-        "general"
+        "toxicology"
       ]
     },
     {
-      "id": "NG94",
-      "title": "NG94",
+      "id": "NG66",
+      "title": "NICE NG66 Mental health of adults in contact with the crimin",
       "source": "NICE",
-      "filename": "NG94.pdf",
-      "path": "/home/exedev/eolas-guidelines/NICE/NG94.pdf",
-      "size_kb": 136,
+      "filename": "NICE_NG66_Mental_health_of_adults_in_contact_with_the_crimin.pdf",
+      "path": "/home/exedev/eolas-guidelines/NICE/NICE_NG66_Mental_health_of_adults_in_contact_with_the_crimin.pdf",
+      "size_kb": 211,
+      "categories": [
+        "mental-health"
+      ]
+    },
+    {
+      "id": "NG68",
+      "title": "NICE NG68 Sexually transmitted infections condom distributio",
+      "source": "NICE",
+      "filename": "NICE_NG68_Sexually_transmitted_infections_condom_distributio.pdf",
+      "path": "/home/exedev/eolas-guidelines/NICE/NICE_NG68_Sexually_transmitted_infections_condom_distributio.pdf",
+      "size_kb": 195,
+      "categories": [
+        "infection"
+      ]
+    },
+    {
+      "id": "NG70",
+      "title": "NICE NG70 Air pollution outdoor air quality and health",
+      "source": "NICE",
+      "filename": "NICE_NG70_Air_pollution_outdoor_air_quality_and_health.pdf",
+      "path": "/home/exedev/eolas-guidelines/NICE/NICE_NG70_Air_pollution_outdoor_air_quality_and_health.pdf",
+      "size_kb": 336,
       "categories": [
         "general"
       ]
     },
     {
-      "id": "QS10",
-      "title": "QS10",
+      "id": "NG72",
+      "title": "NICE NG72 Developmental follow up of children and young peop",
       "source": "NICE",
-      "filename": "QS10.pdf",
-      "path": "/home/exedev/eolas-guidelines/NICE/QS10.pdf",
-      "size_kb": 188,
+      "filename": "NICE_NG72_Developmental_follow-up_of_children_and_young_peop.pdf",
+      "path": "/home/exedev/eolas-guidelines/NICE/NICE_NG72_Developmental_follow-up_of_children_and_young_peop.pdf",
+      "size_kb": 180,
+      "categories": [
+        "paediatric",
+        "mental-health"
+      ]
+    },
+    {
+      "id": "NG75",
+      "title": "NICE NG75 Faltering growth recognition and management of fal",
+      "source": "NICE",
+      "filename": "NICE_NG75_Faltering_growth_recognition_and_management_of_fal.pdf",
+      "path": "/home/exedev/eolas-guidelines/NICE/NICE_NG75_Faltering_growth_recognition_and_management_of_fal.pdf",
+      "size_kb": 143,
       "categories": [
         "general"
       ]
     },
     {
-      "id": "QS103",
-      "title": "QS103",
+      "id": "NG76",
+      "title": "NICE NG76 Child abuse and neglect",
       "source": "NICE",
-      "filename": "QS103.pdf",
-      "path": "/home/exedev/eolas-guidelines/NICE/QS103.pdf",
-      "size_kb": 138,
+      "filename": "NICE_NG76_Child_abuse_and_neglect.pdf",
+      "path": "/home/exedev/eolas-guidelines/NICE/NICE_NG76_Child_abuse_and_neglect.pdf",
+      "size_kb": 805,
+      "categories": [
+        "paediatric",
+        "safeguarding"
+      ]
+    },
+    {
+      "id": "NG79",
+      "title": "NICE NG79 Sinusitis acute antimicrobial prescribing",
+      "source": "NICE",
+      "filename": "NICE_NG79_Sinusitis_acute_antimicrobial_prescribing.pdf",
+      "path": "/home/exedev/eolas-guidelines/NICE/NICE_NG79_Sinusitis_acute_antimicrobial_prescribing.pdf",
+      "size_kb": 199,
       "categories": [
         "general"
       ]
     },
     {
-      "id": "QS11",
-      "title": "QS11",
+      "id": "NG83",
+      "title": "NICE NG83 Oesophago gastric cancer assessment and management",
       "source": "NICE",
-      "filename": "QS11.pdf",
-      "path": "/home/exedev/eolas-guidelines/NICE/QS11.pdf",
-      "size_kb": 163,
-      "categories": [
-        "general"
-      ]
-    },
-    {
-      "id": "QS12",
-      "title": "QS12",
-      "source": "NICE",
-      "filename": "QS12.pdf",
-      "path": "/home/exedev/eolas-guidelines/NICE/QS12.pdf",
-      "size_kb": 147,
-      "categories": [
-        "general"
-      ]
-    },
-    {
-      "id": "QS14",
-      "title": "QS14",
-      "source": "NICE",
-      "filename": "QS14.pdf",
-      "path": "/home/exedev/eolas-guidelines/NICE/QS14.pdf",
-      "size_kb": 168,
-      "categories": [
-        "general"
-      ]
-    },
-    {
-      "id": "QS15",
-      "title": "QS15",
-      "source": "NICE",
-      "filename": "QS15.pdf",
-      "path": "/home/exedev/eolas-guidelines/NICE/QS15.pdf",
-      "size_kb": 156,
-      "categories": [
-        "general"
-      ]
-    },
-    {
-      "id": "QS16",
-      "title": "QS16",
-      "source": "NICE",
-      "filename": "QS16.pdf",
-      "path": "/home/exedev/eolas-guidelines/NICE/QS16.pdf",
+      "filename": "NICE_NG83_Oesophago-gastric_cancer_assessment_and_management.pdf",
+      "path": "/home/exedev/eolas-guidelines/NICE/NICE_NG83_Oesophago-gastric_cancer_assessment_and_management.pdf",
       "size_kb": 137,
       "categories": [
         "general"
       ]
     },
     {
-      "id": "QS165",
-      "title": "QS165",
+      "id": "NG84",
+      "title": "NICE NG84 Sore throat acute antimicrobial prescribing",
       "source": "NICE",
-      "filename": "QS165.pdf",
-      "path": "/home/exedev/eolas-guidelines/NICE/QS165.pdf",
-      "size_kb": 126,
+      "filename": "NICE_NG84_Sore_throat_acute_antimicrobial_prescribing.pdf",
+      "path": "/home/exedev/eolas-guidelines/NICE/NICE_NG84_Sore_throat_acute_antimicrobial_prescribing.pdf",
+      "size_kb": 204,
       "categories": [
         "general"
       ]
     },
     {
-      "id": "QS17",
-      "title": "QS17",
+      "id": "NG85",
+      "title": "NICE NG85 Pancreatic cancer in adults diagnosis and manageme",
       "source": "NICE",
-      "filename": "QS17.pdf",
-      "path": "/home/exedev/eolas-guidelines/NICE/QS17.pdf",
-      "size_kb": 191,
+      "filename": "NICE_NG85_Pancreatic_cancer_in_adults_diagnosis_and_manageme.pdf",
+      "path": "/home/exedev/eolas-guidelines/NICE/NICE_NG85_Pancreatic_cancer_in_adults_diagnosis_and_manageme.pdf",
+      "size_kb": 129,
       "categories": [
         "general"
       ]
     },
     {
-      "id": "QS174",
-      "title": "QS174",
+      "id": "NG89",
+      "title": "NICE NG89 Venous thromboembolism in over 16s reducing the ri",
       "source": "NICE",
-      "filename": "QS174.pdf",
-      "path": "/home/exedev/eolas-guidelines/NICE/QS174.pdf",
-      "size_kb": 130,
+      "filename": "NICE_NG89_Venous_thromboembolism_in_over_16s_reducing_the_ri.pdf",
+      "path": "/home/exedev/eolas-guidelines/NICE/NICE_NG89_Venous_thromboembolism_in_over_16s_reducing_the_ri.pdf",
+      "size_kb": 239,
       "categories": [
         "general"
       ]
     },
     {
-      "id": "QS21",
-      "title": "QS21",
+      "id": "NG91",
+      "title": "NICE NG91 Otitis media acute antimicrobial prescribing",
       "source": "NICE",
-      "filename": "QS21.pdf",
-      "path": "/home/exedev/eolas-guidelines/NICE/QS21.pdf",
-      "size_kb": 112,
+      "filename": "NICE_NG91_Otitis_media_acute_antimicrobial_prescribing.pdf",
+      "path": "/home/exedev/eolas-guidelines/NICE/NICE_NG91_Otitis_media_acute_antimicrobial_prescribing.pdf",
+      "size_kb": 204,
       "categories": [
         "general"
       ]
     },
     {
-      "id": "QS22",
-      "title": "QS22",
+      "id": "NG94",
+      "title": "NICE NG94 Emergency and acute medical care in over 16s servi",
       "source": "NICE",
-      "filename": "QS22.pdf",
-      "path": "/home/exedev/eolas-guidelines/NICE/QS22.pdf",
-      "size_kb": 194,
+      "filename": "NICE_NG94_Emergency_and_acute_medical_care_in_over_16s_servi.pdf",
+      "path": "/home/exedev/eolas-guidelines/NICE/NICE_NG94_Emergency_and_acute_medical_care_in_over_16s_servi.pdf",
+      "size_kb": 136,
       "categories": [
         "general"
       ]
     },
     {
-      "id": "QS25",
-      "title": "QS25",
+      "id": "NG97",
+      "title": "NICE NG97 Dementia assessment management and support for peo",
       "source": "NICE",
-      "filename": "QS25.pdf",
-      "path": "/home/exedev/eolas-guidelines/NICE/QS25.pdf",
-      "size_kb": 155,
+      "filename": "NICE_NG97_Dementia_assessment_management_and_support_for_peo.pdf",
+      "path": "/home/exedev/eolas-guidelines/NICE/NICE_NG97_Dementia_assessment_management_and_support_for_peo.pdf",
+      "size_kb": 238,
       "categories": [
         "general"
       ]
     },
     {
-      "id": "QS76",
-      "title": "QS76",
+      "id": "NG9",
+      "title": "NICE NG9 Bronchiolitis in children diagnosis and management",
       "source": "NICE",
-      "filename": "QS76.pdf",
-      "path": "/home/exedev/eolas-guidelines/NICE/QS76.pdf",
-      "size_kb": 186,
+      "filename": "NICE_NG9_Bronchiolitis_in_children_diagnosis_and_management.pdf",
+      "path": "/home/exedev/eolas-guidelines/NICE/NICE_NG9_Bronchiolitis_in_children_diagnosis_and_management.pdf",
+      "size_kb": 156,
+      "categories": [
+        "paediatric"
+      ]
+    },
+    {
+      "id": null,
+      "title": "NICE PH17 Physical activity for children and young people",
+      "source": "NICE",
+      "filename": "NICE_PH17_Physical_activity_for_children_and_young_people.pdf",
+      "path": "/home/exedev/eolas-guidelines/NICE/NICE_PH17_Physical_activity_for_children_and_young_people.pdf",
+      "size_kb": 513,
+      "categories": [
+        "paediatric"
+      ]
+    },
+    {
+      "id": null,
+      "title": "NICE PH24 Alcohol use disorders prevention",
+      "source": "NICE",
+      "filename": "NICE_PH24_Alcohol-use_disorders_prevention.pdf",
+      "path": "/home/exedev/eolas-guidelines/NICE/NICE_PH24_Alcohol-use_disorders_prevention.pdf",
+      "size_kb": 404,
       "categories": [
         "general"
       ]
     },
     {
-      "id": "QS9",
-      "title": "QS9",
+      "id": null,
+      "title": "NICE PH32 Skin cancer prevention",
       "source": "NICE",
-      "filename": "QS9.pdf",
-      "path": "/home/exedev/eolas-guidelines/NICE/QS9.pdf",
-      "size_kb": 173,
+      "filename": "NICE_PH32_Skin_cancer_prevention.pdf",
+      "path": "/home/exedev/eolas-guidelines/NICE/NICE_PH32_Skin_cancer_prevention.pdf",
+      "size_kb": 271,
       "categories": [
         "general"
       ]
     },
     {
-      "id": "TA1045",
-      "title": "TA1045",
+      "id": null,
+      "title": "NICE PH35 Type 2 diabetes prevention population and communit",
       "source": "NICE",
-      "filename": "TA1045.pdf",
-      "path": "/home/exedev/eolas-guidelines/NICE/TA1045.pdf",
-      "size_kb": 184,
+      "filename": "NICE_PH35_Type_2_diabetes_prevention_population_and_communit.pdf",
+      "path": "/home/exedev/eolas-guidelines/NICE/NICE_PH35_Type_2_diabetes_prevention_population_and_communit.pdf",
+      "size_kb": 369,
       "categories": [
         "general"
       ]
     },
     {
-      "id": "TA1049",
-      "title": "TA1049",
+      "id": null,
+      "title": "NICE PH36 Healthcare associated infections prevention and co",
       "source": "NICE",
-      "filename": "TA1049.pdf",
-      "path": "/home/exedev/eolas-guidelines/NICE/TA1049.pdf",
-      "size_kb": 135,
+      "filename": "NICE_PH36_Healthcare-associated_infections_prevention_and_co.pdf",
+      "path": "/home/exedev/eolas-guidelines/NICE/NICE_PH36_Healthcare-associated_infections_prevention_and_co.pdf",
+      "size_kb": 205,
+      "categories": [
+        "infection"
+      ]
+    },
+    {
+      "id": null,
+      "title": "NICE PH38 Type 2 diabetes prevention in people at high risk",
+      "source": "NICE",
+      "filename": "NICE_PH38_Type_2_diabetes_prevention_in_people_at_high_risk.pdf",
+      "path": "/home/exedev/eolas-guidelines/NICE/NICE_PH38_Type_2_diabetes_prevention_in_people_at_high_risk.pdf",
+      "size_kb": 240,
       "categories": [
         "general"
       ]
     },
     {
-      "id": "TA1054",
-      "title": "TA1054",
+      "id": null,
+      "title": "NICE PH43 Hepatitis B and C testing people at risk of infect",
       "source": "NICE",
-      "filename": "TA1054.pdf",
-      "path": "/home/exedev/eolas-guidelines/NICE/TA1054.pdf",
-      "size_kb": 147,
+      "filename": "NICE_PH43_Hepatitis_B_and_C_testing_people_at_risk_of_infect.pdf",
+      "path": "/home/exedev/eolas-guidelines/NICE/NICE_PH43_Hepatitis_B_and_C_testing_people_at_risk_of_infect.pdf",
+      "size_kb": 359,
       "categories": [
         "general"
       ]
     },
     {
-      "id": "TA286",
-      "title": "TA286",
+      "id": null,
+      "title": "NICE PH50 Domestic violence and abuse multi agency working",
       "source": "NICE",
-      "filename": "TA286.pdf",
-      "path": "/home/exedev/eolas-guidelines/NICE/TA286.pdf",
-      "size_kb": 44,
+      "filename": "NICE_PH50_Domestic_violence_and_abuse_multi-agency_working.pdf",
+      "path": "/home/exedev/eolas-guidelines/NICE/NICE_PH50_Domestic_violence_and_abuse_multi-agency_working.pdf",
+      "size_kb": 346,
       "categories": [
-        "general"
+        "safeguarding"
       ]
     },
     {
-      "id": "TA893",
-      "title": "TA893",
+      "id": null,
+      "title": "NICE SG1 Safe staffing for nursing in adult inpatient wards",
       "source": "NICE",
-      "filename": "TA893.pdf",
-      "path": "/home/exedev/eolas-guidelines/NICE/TA893.pdf",
-      "size_kb": 152,
+      "filename": "NICE_SG1_Safe_staffing_for_nursing_in_adult_inpatient_wards.pdf",
+      "path": "/home/exedev/eolas-guidelines/NICE/NICE_SG1_Safe_staffing_for_nursing_in_adult_inpatient_wards.pdf",
+      "size_kb": 247,
       "categories": [
         "general"
       ]
