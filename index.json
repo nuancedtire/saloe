@@ -1,0 +1,1416 @@
+{
+  "generated": "2024-02-16",
+  "total_files": 113,
+  "sources": {
+    "RCEM": {
+      "count": 52,
+      "size_mb": 22.6
+    },
+    "NICE": {
+      "count": 56,
+      "size_mb": 10.4
+    },
+    "BTS": {
+      "count": 5,
+      "size_mb": 12.5
+    }
+  },
+  "categories": {
+    "mental-health": [
+      "A_Brief_Guide_to_Section_136_for_Emergency_Departments_Dec_2017.pdf",
+      "Acute_Behavioural_Disturbance_in_Emergency_Departments_Oct2023_V2.pdf",
+      "Childrens_Mental_Health_Risk_Pathway.pdf"
+    ],
+    "toxicology": [
+      "Acute_Opioid_Toxicity.pdf",
+      "Acute_Opioid_Toxicity_Best_Practice_Guideline_v1.pdf",
+      "RCEM_Cannabinoid_Hyperemesis_Syndrome_v5.0.pdf",
+      "RCEM_NPIS_Antidote_Letter_Nov_2021-1.pdf"
+    ],
+    "pain-sedation": [
+      "Acute_Opioid_Toxicity.pdf",
+      "Acute_Opioid_Toxicity_Best_Practice_Guideline_v1.pdf",
+      "Ketamine_Procedural_Sedation_-for_Children_in_EDs_Feb_2020.pdf",
+      "Pharmacological_Agents_for_Procedural_Sedation_and_Analgesia_October_2020_Revised_230421.pdf",
+      "RCEM_BPC_Management_of_Pain_in_Adults_300621.pdf",
+      "RCEM_Pain_in_Children_Best_Practice_Guidance_REV_Jul2017.pdf"
+    ],
+    "operational": [
+      "Best_Practice_Guideline_Template_Jan_2022.pdf",
+      "Consent_Guidance_Revised_Jan2018.pdf",
+      "Discharge_to_General_Practice_Updated_Oct22.pdf",
+      "RCEM_Emergency_Department_Out_of_Hours_Discharge_Medications_Final.pdf",
+      "Screening_in_the_ED_Best_Practice_2024.pdf"
+    ],
+    "general": [
+      "Chaperones_in_the_Emergency_Department_March2015.pdf",
+      "ED_Patients_in_Police_Custody_revised_June2016.pdf",
+      "Ebola_Guidance_for_Emergency_Department.pdf",
+      "Fascia_Iliaca_Block_in_the_Emergency_Department_Revised_July_2020_v2.pdf",
+      "Frequent_Attendance_in_the_Emergency_Department_v1.pdf",
+      "Frequent_Attenders_in_the_ED_Aug2017.pdf",
+      "Giving_Information_to_Patients_in_the_ED_Feb2017.pdf",
+      "Heat_Related_Illness_NASMeD_Update_July_2022_V2.0_FINAL.pdf",
+      "Homelessness_and_Inclusion_Health.pdf",
+      "Management_of_Adult_Patients_Who_Attend_-ED_After_Sexual_Assault_and_or_Rape_revised.pdf",
+      "Management_of_Controlled_Energy_Device_Attendances_Taser_2021.pdf",
+      "Management_of_Suspected_Internal_Drug_Trafficker_December_2020.pdf",
+      "Measuring_the_Quality_of_Patient_Care_in_the_ED.pdf",
+      "NHS_Ambulance_Services_Pre_Alert_Criteria_Guideline-1.pdf",
+      "Patient_Who_Absconds.pdf",
+      "Providing_a_Witness_Statement_for_the_Police_Feb-2012.pdf",
+      "QEC_Guideline_Information_Sharing_to_Reduce_Community_Violence_Sept2017.pdf",
+      "RCEM_50_Guidance.pdf",
+      "RCEM_Absconding_Guidance_V2.pdf",
+      "RCEM_BPC_DrugMisuse_FINAL2019.pdf",
+      "RCEM_BPC_InvestigationResults_200520.pdf",
+      "RCEM_BPC_rAAA_220119_FINAL.pdf",
+      "RCEM_Best_Practice_Invasive_Procedures_in_the_Emergency_Department.pdf",
+      "RCEM_Best_Practice_Providing_Information_in_the_Emergency_Department.pdf",
+      "RCEM_FICM_Better_Together_Framework.pdf",
+      "RCEM_Guideline_COVID_IPC_Feb2021.pdf",
+      "RCEM_HIV_Testing_in_the_ED_revised_December_2020.pdf",
+      "RCEM_Patient_Care_in_the_ED.pdf",
+      "Reducing_Redundant_Activity_in_the_Acute_Setting_Dec2015.pdf",
+      "CG134.pdf",
+      "CG178.pdf",
+      "CG183.pdf",
+      "CG184.pdf",
+      "CG187.pdf",
+      "CG188.pdf",
+      "CG51.pdf",
+      "CG52.pdf",
+      "NG12.pdf",
+      "NG120.pdf",
+      "NG14.pdf",
+      "NG144.pdf",
+      "NG17.pdf",
+      "NG18.pdf",
+      "NG180.pdf",
+      "NG185.pdf",
+      "NG21.pdf",
+      "NG28.pdf",
+      "NG32.pdf",
+      "NG33.pdf",
+      "NG34.pdf",
+      "NG38.pdf",
+      "NG39.pdf",
+      "NG40.pdf",
+      "NG43.pdf",
+      "NG45.pdf",
+      "NG47.pdf",
+      "NG48.pdf",
+      "NG49.pdf",
+      "NG50.pdf",
+      "NG52.pdf",
+      "NG53.pdf",
+      "NG54.pdf",
+      "NG55.pdf",
+      "NG64.pdf",
+      "NG94.pdf",
+      "QS10.pdf",
+      "QS103.pdf",
+      "QS11.pdf",
+      "QS12.pdf",
+      "QS14.pdf",
+      "QS15.pdf",
+      "QS16.pdf",
+      "QS165.pdf",
+      "QS17.pdf",
+      "QS174.pdf",
+      "QS21.pdf",
+      "QS22.pdf",
+      "QS25.pdf",
+      "QS76.pdf",
+      "QS9.pdf",
+      "TA1045.pdf",
+      "TA1049.pdf",
+      "TA1054.pdf",
+      "TA286.pdf",
+      "TA893.pdf",
+      "BTS_CAP_2009.pdf",
+      "BTS_CAP_QuickRef.pdf"
+    ],
+    "paediatric": [
+      "Childrens_Mental_Health_Risk_Pathway.pdf",
+      "Ketamine_Procedural_Sedation_-for_Children_in_EDs_Feb_2020.pdf",
+      "RCEM_BPC_Ingestion_of_Super_Strong_Magnets_in_Children_170521.pdf",
+      "RCEM_Pain_in_Children_Best_Practice_Guidance_REV_Jul2017.pdf",
+      "RCEM_Response_to_RCR_Imaging_in_Paediatric_Trauma_Guidelines_Mar2017.pdf"
+    ],
+    "respiratory": [
+      "Diagnosis_of_Thoracic_Aortic_Dissection_RCEM_RCR_v2.pdf",
+      "Diagnosis_of_Thoracic_Aortic_Dissection_in_the_Emergency_Department_RCEM_RCR_2025_V2.pdf",
+      "BTS_Emergency_Oxygen.pdf",
+      "BTS_Oxygen.pdf",
+      "BTS_Pleural_2023.pdf"
+    ],
+    "cardiovascular": [
+      "Diagnosis_of_Thoracic_Aortic_Dissection_RCEM_RCR_v2.pdf",
+      "Diagnosis_of_Thoracic_Aortic_Dissection_in_the_Emergency_Department_RCEM_RCR_2025_V2.pdf",
+      "RCEM_Traumatic_Cardiac_Arrest_Sept2019_FINAL.pdf"
+    ],
+    "safeguarding": [
+      "FGM_BP-Guide_Jul2017.pdf",
+      "Management_of_Domestic_Abuse_March2015.pdf"
+    ],
+    "trauma": [
+      "RCEM_Response_to_RCR_Imaging_in_Paediatric_Trauma_Guidelines_Mar2017.pdf",
+      "RCEM_Traumatic_Cardiac_Arrest_Sept2019_FINAL.pdf"
+    ]
+  },
+  "guidelines": [
+    {
+      "id": null,
+      "title": "A Brief Guide to Section 136 for Emergency Departments Dec 2017",
+      "source": "RCEM",
+      "filename": "A_Brief_Guide_to_Section_136_for_Emergency_Departments_Dec_2017.pdf",
+      "path": "/home/exedev/eolas-guidelines/RCEM/A_Brief_Guide_to_Section_136_for_Emergency_Departments_Dec_2017.pdf",
+      "size_kb": 146,
+      "categories": [
+        "mental-health"
+      ]
+    },
+    {
+      "id": null,
+      "title": "Acute Behavioural Disturbance in Emergency Departments Oct2023 V2",
+      "source": "RCEM",
+      "filename": "Acute_Behavioural_Disturbance_in_Emergency_Departments_Oct2023_V2.pdf",
+      "path": "/home/exedev/eolas-guidelines/RCEM/Acute_Behavioural_Disturbance_in_Emergency_Departments_Oct2023_V2.pdf",
+      "size_kb": 635,
+      "categories": [
+        "mental-health"
+      ]
+    },
+    {
+      "id": null,
+      "title": "Acute Opioid Toxicity",
+      "source": "RCEM",
+      "filename": "Acute_Opioid_Toxicity.pdf",
+      "path": "/home/exedev/eolas-guidelines/RCEM/Acute_Opioid_Toxicity.pdf",
+      "size_kb": 1230,
+      "categories": [
+        "toxicology",
+        "pain-sedation"
+      ]
+    },
+    {
+      "id": null,
+      "title": "Acute Opioid Toxicity Best Practice Guideline v1",
+      "source": "RCEM",
+      "filename": "Acute_Opioid_Toxicity_Best_Practice_Guideline_v1.pdf",
+      "path": "/home/exedev/eolas-guidelines/RCEM/Acute_Opioid_Toxicity_Best_Practice_Guideline_v1.pdf",
+      "size_kb": 1230,
+      "categories": [
+        "toxicology",
+        "pain-sedation"
+      ]
+    },
+    {
+      "id": null,
+      "title": "Best Practice Guideline Template Jan 2022",
+      "source": "RCEM",
+      "filename": "Best_Practice_Guideline_Template_Jan_2022.pdf",
+      "path": "/home/exedev/eolas-guidelines/RCEM/Best_Practice_Guideline_Template_Jan_2022.pdf",
+      "size_kb": 369,
+      "categories": [
+        "operational"
+      ]
+    },
+    {
+      "id": null,
+      "title": "Chaperones in the Emergency Department March2015",
+      "source": "RCEM",
+      "filename": "Chaperones_in_the_Emergency_Department_March2015.pdf",
+      "path": "/home/exedev/eolas-guidelines/RCEM/Chaperones_in_the_Emergency_Department_March2015.pdf",
+      "size_kb": 287,
+      "categories": [
+        "general"
+      ]
+    },
+    {
+      "id": null,
+      "title": "Childrens Mental Health Risk Pathway",
+      "source": "RCEM",
+      "filename": "Childrens_Mental_Health_Risk_Pathway.pdf",
+      "path": "/home/exedev/eolas-guidelines/RCEM/Childrens_Mental_Health_Risk_Pathway.pdf",
+      "size_kb": 258,
+      "categories": [
+        "paediatric",
+        "mental-health"
+      ]
+    },
+    {
+      "id": null,
+      "title": "Consent Guidance Revised Jan2018",
+      "source": "RCEM",
+      "filename": "Consent_Guidance_Revised_Jan2018.pdf",
+      "path": "/home/exedev/eolas-guidelines/RCEM/Consent_Guidance_Revised_Jan2018.pdf",
+      "size_kb": 233,
+      "categories": [
+        "operational"
+      ]
+    },
+    {
+      "id": null,
+      "title": "Diagnosis of Thoracic Aortic Dissection RCEM RCR v2",
+      "source": "RCEM",
+      "filename": "Diagnosis_of_Thoracic_Aortic_Dissection_RCEM_RCR_v2.pdf",
+      "path": "/home/exedev/eolas-guidelines/RCEM/Diagnosis_of_Thoracic_Aortic_Dissection_RCEM_RCR_v2.pdf",
+      "size_kb": 561,
+      "categories": [
+        "respiratory",
+        "cardiovascular"
+      ]
+    },
+    {
+      "id": null,
+      "title": "Diagnosis of Thoracic Aortic Dissection in the Emergency Department RCEM RCR 2025 V2",
+      "source": "RCEM",
+      "filename": "Diagnosis_of_Thoracic_Aortic_Dissection_in_the_Emergency_Department_RCEM_RCR_2025_V2.pdf",
+      "path": "/home/exedev/eolas-guidelines/RCEM/Diagnosis_of_Thoracic_Aortic_Dissection_in_the_Emergency_Department_RCEM_RCR_2025_V2.pdf",
+      "size_kb": 510,
+      "categories": [
+        "respiratory",
+        "cardiovascular"
+      ]
+    },
+    {
+      "id": null,
+      "title": "Discharge to General Practice Updated Oct22",
+      "source": "RCEM",
+      "filename": "Discharge_to_General_Practice_Updated_Oct22.pdf",
+      "path": "/home/exedev/eolas-guidelines/RCEM/Discharge_to_General_Practice_Updated_Oct22.pdf",
+      "size_kb": 261,
+      "categories": [
+        "operational"
+      ]
+    },
+    {
+      "id": null,
+      "title": "ED Patients in Police Custody revised June2016",
+      "source": "RCEM",
+      "filename": "ED_Patients_in_Police_Custody_revised_June2016.pdf",
+      "path": "/home/exedev/eolas-guidelines/RCEM/ED_Patients_in_Police_Custody_revised_June2016.pdf",
+      "size_kb": 322,
+      "categories": [
+        "general"
+      ]
+    },
+    {
+      "id": null,
+      "title": "Ebola Guidance for Emergency Department",
+      "source": "RCEM",
+      "filename": "Ebola_Guidance_for_Emergency_Department.pdf",
+      "path": "/home/exedev/eolas-guidelines/RCEM/Ebola_Guidance_for_Emergency_Department.pdf",
+      "size_kb": 407,
+      "categories": [
+        "general"
+      ]
+    },
+    {
+      "id": null,
+      "title": "FGM BP Guide Jul2017",
+      "source": "RCEM",
+      "filename": "FGM_BP-Guide_Jul2017.pdf",
+      "path": "/home/exedev/eolas-guidelines/RCEM/FGM_BP-Guide_Jul2017.pdf",
+      "size_kb": 514,
+      "categories": [
+        "safeguarding"
+      ]
+    },
+    {
+      "id": null,
+      "title": "Fascia Iliaca Block in the Emergency Department Revised July 2020 v2",
+      "source": "RCEM",
+      "filename": "Fascia_Iliaca_Block_in_the_Emergency_Department_Revised_July_2020_v2.pdf",
+      "path": "/home/exedev/eolas-guidelines/RCEM/Fascia_Iliaca_Block_in_the_Emergency_Department_Revised_July_2020_v2.pdf",
+      "size_kb": 893,
+      "categories": [
+        "general"
+      ]
+    },
+    {
+      "id": null,
+      "title": "Frequent Attendance in the Emergency Department v1",
+      "source": "RCEM",
+      "filename": "Frequent_Attendance_in_the_Emergency_Department_v1.pdf",
+      "path": "/home/exedev/eolas-guidelines/RCEM/Frequent_Attendance_in_the_Emergency_Department_v1.pdf",
+      "size_kb": 739,
+      "categories": [
+        "general"
+      ]
+    },
+    {
+      "id": null,
+      "title": "Frequent Attenders in the ED Aug2017",
+      "source": "RCEM",
+      "filename": "Frequent_Attenders_in_the_ED_Aug2017.pdf",
+      "path": "/home/exedev/eolas-guidelines/RCEM/Frequent_Attenders_in_the_ED_Aug2017.pdf",
+      "size_kb": 337,
+      "categories": [
+        "general"
+      ]
+    },
+    {
+      "id": null,
+      "title": "Giving Information to Patients in the ED Feb2017",
+      "source": "RCEM",
+      "filename": "Giving_Information_to_Patients_in_the_ED_Feb2017.pdf",
+      "path": "/home/exedev/eolas-guidelines/RCEM/Giving_Information_to_Patients_in_the_ED_Feb2017.pdf",
+      "size_kb": 222,
+      "categories": [
+        "general"
+      ]
+    },
+    {
+      "id": null,
+      "title": "Heat Related Illness NASMeD Update July 2022 V2.0 FINAL",
+      "source": "RCEM",
+      "filename": "Heat_Related_Illness_NASMeD_Update_July_2022_V2.0_FINAL.pdf",
+      "path": "/home/exedev/eolas-guidelines/RCEM/Heat_Related_Illness_NASMeD_Update_July_2022_V2.0_FINAL.pdf",
+      "size_kb": 993,
+      "categories": [
+        "general"
+      ]
+    },
+    {
+      "id": null,
+      "title": "Homelessness and Inclusion Health",
+      "source": "RCEM",
+      "filename": "Homelessness_and_Inclusion_Health.pdf",
+      "path": "/home/exedev/eolas-guidelines/RCEM/Homelessness_and_Inclusion_Health.pdf",
+      "size_kb": 214,
+      "categories": [
+        "general"
+      ]
+    },
+    {
+      "id": null,
+      "title": "Ketamine Procedural Sedation for Children in EDs Feb 2020",
+      "source": "RCEM",
+      "filename": "Ketamine_Procedural_Sedation_-for_Children_in_EDs_Feb_2020.pdf",
+      "path": "/home/exedev/eolas-guidelines/RCEM/Ketamine_Procedural_Sedation_-for_Children_in_EDs_Feb_2020.pdf",
+      "size_kb": 346,
+      "categories": [
+        "paediatric",
+        "pain-sedation"
+      ]
+    },
+    {
+      "id": null,
+      "title": "Management of Adult Patients Who Attend ED After Sexual Assault and or Rape revised",
+      "source": "RCEM",
+      "filename": "Management_of_Adult_Patients_Who_Attend_-ED_After_Sexual_Assault_and_or_Rape_revised.pdf",
+      "path": "/home/exedev/eolas-guidelines/RCEM/Management_of_Adult_Patients_Who_Attend_-ED_After_Sexual_Assault_and_or_Rape_revised.pdf",
+      "size_kb": 223,
+      "categories": [
+        "general"
+      ]
+    },
+    {
+      "id": null,
+      "title": "Management of Controlled Energy Device Attendances Taser 2021",
+      "source": "RCEM",
+      "filename": "Management_of_Controlled_Energy_Device_Attendances_Taser_2021.pdf",
+      "path": "/home/exedev/eolas-guidelines/RCEM/Management_of_Controlled_Energy_Device_Attendances_Taser_2021.pdf",
+      "size_kb": 550,
+      "categories": [
+        "general"
+      ]
+    },
+    {
+      "id": null,
+      "title": "Management of Domestic Abuse March2015",
+      "source": "RCEM",
+      "filename": "Management_of_Domestic_Abuse_March2015.pdf",
+      "path": "/home/exedev/eolas-guidelines/RCEM/Management_of_Domestic_Abuse_March2015.pdf",
+      "size_kb": 178,
+      "categories": [
+        "safeguarding"
+      ]
+    },
+    {
+      "id": null,
+      "title": "Management of Suspected Internal Drug Trafficker December 2020",
+      "source": "RCEM",
+      "filename": "Management_of_Suspected_Internal_Drug_Trafficker_December_2020.pdf",
+      "path": "/home/exedev/eolas-guidelines/RCEM/Management_of_Suspected_Internal_Drug_Trafficker_December_2020.pdf",
+      "size_kb": 320,
+      "categories": [
+        "general"
+      ]
+    },
+    {
+      "id": null,
+      "title": "Measuring the Quality of Patient Care in the ED",
+      "source": "RCEM",
+      "filename": "Measuring_the_Quality_of_Patient_Care_in_the_ED.pdf",
+      "path": "/home/exedev/eolas-guidelines/RCEM/Measuring_the_Quality_of_Patient_Care_in_the_ED.pdf",
+      "size_kb": 494,
+      "categories": [
+        "general"
+      ]
+    },
+    {
+      "id": null,
+      "title": "NHS Ambulance Services Pre Alert Criteria Guideline 1",
+      "source": "RCEM",
+      "filename": "NHS_Ambulance_Services_Pre_Alert_Criteria_Guideline-1.pdf",
+      "path": "/home/exedev/eolas-guidelines/RCEM/NHS_Ambulance_Services_Pre_Alert_Criteria_Guideline-1.pdf",
+      "size_kb": 132,
+      "categories": [
+        "general"
+      ]
+    },
+    {
+      "id": null,
+      "title": "Patient Who Absconds",
+      "source": "RCEM",
+      "filename": "Patient_Who_Absconds.pdf",
+      "path": "/home/exedev/eolas-guidelines/RCEM/Patient_Who_Absconds.pdf",
+      "size_kb": 326,
+      "categories": [
+        "general"
+      ]
+    },
+    {
+      "id": null,
+      "title": "Pharmacological Agents for Procedural Sedation and Analgesia October 2020 Revised 230421",
+      "source": "RCEM",
+      "filename": "Pharmacological_Agents_for_Procedural_Sedation_and_Analgesia_October_2020_Revised_230421.pdf",
+      "path": "/home/exedev/eolas-guidelines/RCEM/Pharmacological_Agents_for_Procedural_Sedation_and_Analgesia_October_2020_Revised_230421.pdf",
+      "size_kb": 509,
+      "categories": [
+        "pain-sedation"
+      ]
+    },
+    {
+      "id": null,
+      "title": "Providing a Witness Statement for the Police Feb 2012",
+      "source": "RCEM",
+      "filename": "Providing_a_Witness_Statement_for_the_Police_Feb-2012.pdf",
+      "path": "/home/exedev/eolas-guidelines/RCEM/Providing_a_Witness_Statement_for_the_Police_Feb-2012.pdf",
+      "size_kb": 200,
+      "categories": [
+        "general"
+      ]
+    },
+    {
+      "id": null,
+      "title": "QEC Guideline Information Sharing to Reduce Community Violence Sept2017",
+      "source": "RCEM",
+      "filename": "QEC_Guideline_Information_Sharing_to_Reduce_Community_Violence_Sept2017.pdf",
+      "path": "/home/exedev/eolas-guidelines/RCEM/QEC_Guideline_Information_Sharing_to_Reduce_Community_Violence_Sept2017.pdf",
+      "size_kb": 306,
+      "categories": [
+        "general"
+      ]
+    },
+    {
+      "id": null,
+      "title": "RCEM 50 Guidance",
+      "source": "RCEM",
+      "filename": "RCEM_50_Guidance.pdf",
+      "path": "/home/exedev/eolas-guidelines/RCEM/RCEM_50_Guidance.pdf",
+      "size_kb": 291,
+      "categories": [
+        "general"
+      ]
+    },
+    {
+      "id": null,
+      "title": "RCEM Absconding Guidance V2",
+      "source": "RCEM",
+      "filename": "RCEM_Absconding_Guidance_V2.pdf",
+      "path": "/home/exedev/eolas-guidelines/RCEM/RCEM_Absconding_Guidance_V2.pdf",
+      "size_kb": 148,
+      "categories": [
+        "general"
+      ]
+    },
+    {
+      "id": null,
+      "title": "RCEM BPC DrugMisuse FINAL2019",
+      "source": "RCEM",
+      "filename": "RCEM_BPC_DrugMisuse_FINAL2019.pdf",
+      "path": "/home/exedev/eolas-guidelines/RCEM/RCEM_BPC_DrugMisuse_FINAL2019.pdf",
+      "size_kb": 530,
+      "categories": [
+        "general"
+      ]
+    },
+    {
+      "id": null,
+      "title": "RCEM BPC Ingestion of Super Strong Magnets in Children 170521",
+      "source": "RCEM",
+      "filename": "RCEM_BPC_Ingestion_of_Super_Strong_Magnets_in_Children_170521.pdf",
+      "path": "/home/exedev/eolas-guidelines/RCEM/RCEM_BPC_Ingestion_of_Super_Strong_Magnets_in_Children_170521.pdf",
+      "size_kb": 400,
+      "categories": [
+        "paediatric"
+      ]
+    },
+    {
+      "id": null,
+      "title": "RCEM BPC InvestigationResults 200520",
+      "source": "RCEM",
+      "filename": "RCEM_BPC_InvestigationResults_200520.pdf",
+      "path": "/home/exedev/eolas-guidelines/RCEM/RCEM_BPC_InvestigationResults_200520.pdf",
+      "size_kb": 249,
+      "categories": [
+        "general"
+      ]
+    },
+    {
+      "id": null,
+      "title": "RCEM BPC Management of Pain in Adults 300621",
+      "source": "RCEM",
+      "filename": "RCEM_BPC_Management_of_Pain_in_Adults_300621.pdf",
+      "path": "/home/exedev/eolas-guidelines/RCEM/RCEM_BPC_Management_of_Pain_in_Adults_300621.pdf",
+      "size_kb": 526,
+      "categories": [
+        "pain-sedation"
+      ]
+    },
+    {
+      "id": null,
+      "title": "RCEM BPC rAAA 220119 FINAL",
+      "source": "RCEM",
+      "filename": "RCEM_BPC_rAAA_220119_FINAL.pdf",
+      "path": "/home/exedev/eolas-guidelines/RCEM/RCEM_BPC_rAAA_220119_FINAL.pdf",
+      "size_kb": 214,
+      "categories": [
+        "general"
+      ]
+    },
+    {
+      "id": null,
+      "title": "RCEM Best Practice Invasive Procedures in the Emergency Department",
+      "source": "RCEM",
+      "filename": "RCEM_Best_Practice_Invasive_Procedures_in_the_Emergency_Department.pdf",
+      "path": "/home/exedev/eolas-guidelines/RCEM/RCEM_Best_Practice_Invasive_Procedures_in_the_Emergency_Department.pdf",
+      "size_kb": 394,
+      "categories": [
+        "general"
+      ]
+    },
+    {
+      "id": null,
+      "title": "RCEM Best Practice Providing Information in the Emergency Department",
+      "source": "RCEM",
+      "filename": "RCEM_Best_Practice_Providing_Information_in_the_Emergency_Department.pdf",
+      "path": "/home/exedev/eolas-guidelines/RCEM/RCEM_Best_Practice_Providing_Information_in_the_Emergency_Department.pdf",
+      "size_kb": 142,
+      "categories": [
+        "general"
+      ]
+    },
+    {
+      "id": null,
+      "title": "RCEM Cannabinoid Hyperemesis Syndrome v5.0",
+      "source": "RCEM",
+      "filename": "RCEM_Cannabinoid_Hyperemesis_Syndrome_v5.0.pdf",
+      "path": "/home/exedev/eolas-guidelines/RCEM/RCEM_Cannabinoid_Hyperemesis_Syndrome_v5.0.pdf",
+      "size_kb": 94,
+      "categories": [
+        "toxicology"
+      ]
+    },
+    {
+      "id": null,
+      "title": "RCEM Emergency Department Out of Hours Discharge Medications Final",
+      "source": "RCEM",
+      "filename": "RCEM_Emergency_Department_Out_of_Hours_Discharge_Medications_Final.pdf",
+      "path": "/home/exedev/eolas-guidelines/RCEM/RCEM_Emergency_Department_Out_of_Hours_Discharge_Medications_Final.pdf",
+      "size_kb": 238,
+      "categories": [
+        "operational"
+      ]
+    },
+    {
+      "id": null,
+      "title": "RCEM FICM Better Together Framework",
+      "source": "RCEM",
+      "filename": "RCEM_FICM_Better_Together_Framework.pdf",
+      "path": "/home/exedev/eolas-guidelines/RCEM/RCEM_FICM_Better_Together_Framework.pdf",
+      "size_kb": 3097,
+      "categories": [
+        "general"
+      ]
+    },
+    {
+      "id": null,
+      "title": "RCEM Guideline COVID IPC Feb2021",
+      "source": "RCEM",
+      "filename": "RCEM_Guideline_COVID_IPC_Feb2021.pdf",
+      "path": "/home/exedev/eolas-guidelines/RCEM/RCEM_Guideline_COVID_IPC_Feb2021.pdf",
+      "size_kb": 479,
+      "categories": [
+        "general"
+      ]
+    },
+    {
+      "id": null,
+      "title": "RCEM HIV Testing in the ED revised December 2020",
+      "source": "RCEM",
+      "filename": "RCEM_HIV_Testing_in_the_ED_revised_December_2020.pdf",
+      "path": "/home/exedev/eolas-guidelines/RCEM/RCEM_HIV_Testing_in_the_ED_revised_December_2020.pdf",
+      "size_kb": 295,
+      "categories": [
+        "general"
+      ]
+    },
+    {
+      "id": null,
+      "title": "RCEM NPIS Antidote Letter Nov 2021 1",
+      "source": "RCEM",
+      "filename": "RCEM_NPIS_Antidote_Letter_Nov_2021-1.pdf",
+      "path": "/home/exedev/eolas-guidelines/RCEM/RCEM_NPIS_Antidote_Letter_Nov_2021-1.pdf",
+      "size_kb": 651,
+      "categories": [
+        "toxicology"
+      ]
+    },
+    {
+      "id": null,
+      "title": "RCEM Pain in Children Best Practice Guidance REV Jul2017",
+      "source": "RCEM",
+      "filename": "RCEM_Pain_in_Children_Best_Practice_Guidance_REV_Jul2017.pdf",
+      "path": "/home/exedev/eolas-guidelines/RCEM/RCEM_Pain_in_Children_Best_Practice_Guidance_REV_Jul2017.pdf",
+      "size_kb": 266,
+      "categories": [
+        "paediatric",
+        "pain-sedation"
+      ]
+    },
+    {
+      "id": null,
+      "title": "RCEM Patient Care in the ED",
+      "source": "RCEM",
+      "filename": "RCEM_Patient_Care_in_the_ED.pdf",
+      "path": "/home/exedev/eolas-guidelines/RCEM/RCEM_Patient_Care_in_the_ED.pdf",
+      "size_kb": 357,
+      "categories": [
+        "general"
+      ]
+    },
+    {
+      "id": null,
+      "title": "RCEM Response to RCR Imaging in Paediatric Trauma Guidelines Mar2017",
+      "source": "RCEM",
+      "filename": "RCEM_Response_to_RCR_Imaging_in_Paediatric_Trauma_Guidelines_Mar2017.pdf",
+      "path": "/home/exedev/eolas-guidelines/RCEM/RCEM_Response_to_RCR_Imaging_in_Paediatric_Trauma_Guidelines_Mar2017.pdf",
+      "size_kb": 100,
+      "categories": [
+        "paediatric",
+        "trauma"
+      ]
+    },
+    {
+      "id": null,
+      "title": "RCEM Traumatic Cardiac Arrest Sept2019 FINAL",
+      "source": "RCEM",
+      "filename": "RCEM_Traumatic_Cardiac_Arrest_Sept2019_FINAL.pdf",
+      "path": "/home/exedev/eolas-guidelines/RCEM/RCEM_Traumatic_Cardiac_Arrest_Sept2019_FINAL.pdf",
+      "size_kb": 236,
+      "categories": [
+        "cardiovascular",
+        "trauma"
+      ]
+    },
+    {
+      "id": null,
+      "title": "Reducing Redundant Activity in the Acute Setting Dec2015",
+      "source": "RCEM",
+      "filename": "Reducing_Redundant_Activity_in_the_Acute_Setting_Dec2015.pdf",
+      "path": "/home/exedev/eolas-guidelines/RCEM/Reducing_Redundant_Activity_in_the_Acute_Setting_Dec2015.pdf",
+      "size_kb": 257,
+      "categories": [
+        "general"
+      ]
+    },
+    {
+      "id": null,
+      "title": "Screening in the ED Best Practice 2024",
+      "source": "RCEM",
+      "filename": "Screening_in_the_ED_Best_Practice_2024.pdf",
+      "path": "/home/exedev/eolas-guidelines/RCEM/Screening_in_the_ED_Best_Practice_2024.pdf",
+      "size_kb": 278,
+      "categories": [
+        "operational"
+      ]
+    },
+    {
+      "id": "CG134",
+      "title": "CG134",
+      "source": "NICE",
+      "filename": "CG134.pdf",
+      "path": "/home/exedev/eolas-guidelines/NICE/CG134.pdf",
+      "size_kb": 93,
+      "categories": [
+        "general"
+      ]
+    },
+    {
+      "id": "CG178",
+      "title": "CG178",
+      "source": "NICE",
+      "filename": "CG178.pdf",
+      "path": "/home/exedev/eolas-guidelines/NICE/CG178.pdf",
+      "size_kb": 201,
+      "categories": [
+        "general"
+      ]
+    },
+    {
+      "id": "CG183",
+      "title": "CG183",
+      "source": "NICE",
+      "filename": "CG183.pdf",
+      "path": "/home/exedev/eolas-guidelines/NICE/CG183.pdf",
+      "size_kb": 157,
+      "categories": [
+        "general"
+      ]
+    },
+    {
+      "id": "CG184",
+      "title": "CG184",
+      "source": "NICE",
+      "filename": "CG184.pdf",
+      "path": "/home/exedev/eolas-guidelines/NICE/CG184.pdf",
+      "size_kb": 166,
+      "categories": [
+        "general"
+      ]
+    },
+    {
+      "id": "CG187",
+      "title": "CG187",
+      "source": "NICE",
+      "filename": "CG187.pdf",
+      "path": "/home/exedev/eolas-guidelines/NICE/CG187.pdf",
+      "size_kb": 111,
+      "categories": [
+        "general"
+      ]
+    },
+    {
+      "id": "CG188",
+      "title": "CG188",
+      "source": "NICE",
+      "filename": "CG188.pdf",
+      "path": "/home/exedev/eolas-guidelines/NICE/CG188.pdf",
+      "size_kb": 82,
+      "categories": [
+        "general"
+      ]
+    },
+    {
+      "id": "CG51",
+      "title": "CG51",
+      "source": "NICE",
+      "filename": "CG51.pdf",
+      "path": "/home/exedev/eolas-guidelines/NICE/CG51.pdf",
+      "size_kb": 139,
+      "categories": [
+        "general"
+      ]
+    },
+    {
+      "id": "CG52",
+      "title": "CG52",
+      "source": "NICE",
+      "filename": "CG52.pdf",
+      "path": "/home/exedev/eolas-guidelines/NICE/CG52.pdf",
+      "size_kb": 154,
+      "categories": [
+        "general"
+      ]
+    },
+    {
+      "id": "NG12",
+      "title": "NG12",
+      "source": "NICE",
+      "filename": "NG12.pdf",
+      "path": "/home/exedev/eolas-guidelines/NICE/NG12.pdf",
+      "size_kb": 486,
+      "categories": [
+        "general"
+      ]
+    },
+    {
+      "id": "NG120",
+      "title": "NG120",
+      "source": "NICE",
+      "filename": "NG120.pdf",
+      "path": "/home/exedev/eolas-guidelines/NICE/NG120.pdf",
+      "size_kb": 267,
+      "categories": [
+        "general"
+      ]
+    },
+    {
+      "id": "NG14",
+      "title": "NG14",
+      "source": "NICE",
+      "filename": "NG14.pdf",
+      "path": "/home/exedev/eolas-guidelines/NICE/NG14.pdf",
+      "size_kb": 242,
+      "categories": [
+        "general"
+      ]
+    },
+    {
+      "id": "NG144",
+      "title": "NG144",
+      "source": "NICE",
+      "filename": "NG144.pdf",
+      "path": "/home/exedev/eolas-guidelines/NICE/NG144.pdf",
+      "size_kb": 165,
+      "categories": [
+        "general"
+      ]
+    },
+    {
+      "id": "NG17",
+      "title": "NG17",
+      "source": "NICE",
+      "filename": "NG17.pdf",
+      "path": "/home/exedev/eolas-guidelines/NICE/NG17.pdf",
+      "size_kb": 328,
+      "categories": [
+        "general"
+      ]
+    },
+    {
+      "id": "NG18",
+      "title": "NG18",
+      "source": "NICE",
+      "filename": "NG18.pdf",
+      "path": "/home/exedev/eolas-guidelines/NICE/NG18.pdf",
+      "size_kb": 452,
+      "categories": [
+        "general"
+      ]
+    },
+    {
+      "id": "NG180",
+      "title": "NG180",
+      "source": "NICE",
+      "filename": "NG180.pdf",
+      "path": "/home/exedev/eolas-guidelines/NICE/NG180.pdf",
+      "size_kb": 178,
+      "categories": [
+        "general"
+      ]
+    },
+    {
+      "id": "NG185",
+      "title": "NG185",
+      "source": "NICE",
+      "filename": "NG185.pdf",
+      "path": "/home/exedev/eolas-guidelines/NICE/NG185.pdf",
+      "size_kb": 295,
+      "categories": [
+        "general"
+      ]
+    },
+    {
+      "id": "NG21",
+      "title": "NG21",
+      "source": "NICE",
+      "filename": "NG21.pdf",
+      "path": "/home/exedev/eolas-guidelines/NICE/NG21.pdf",
+      "size_kb": 169,
+      "categories": [
+        "general"
+      ]
+    },
+    {
+      "id": "NG28",
+      "title": "NG28",
+      "source": "NICE",
+      "filename": "NG28.pdf",
+      "path": "/home/exedev/eolas-guidelines/NICE/NG28.pdf",
+      "size_kb": 317,
+      "categories": [
+        "general"
+      ]
+    },
+    {
+      "id": "NG32",
+      "title": "NG32",
+      "source": "NICE",
+      "filename": "NG32.pdf",
+      "path": "/home/exedev/eolas-guidelines/NICE/NG32.pdf",
+      "size_kb": 218,
+      "categories": [
+        "general"
+      ]
+    },
+    {
+      "id": "NG33",
+      "title": "NG33",
+      "source": "NICE",
+      "filename": "NG33.pdf",
+      "path": "/home/exedev/eolas-guidelines/NICE/NG33.pdf",
+      "size_kb": 514,
+      "categories": [
+        "general"
+      ]
+    },
+    {
+      "id": "NG34",
+      "title": "NG34",
+      "source": "NICE",
+      "filename": "NG34.pdf",
+      "path": "/home/exedev/eolas-guidelines/NICE/NG34.pdf",
+      "size_kb": 227,
+      "categories": [
+        "general"
+      ]
+    },
+    {
+      "id": "NG38",
+      "title": "NG38",
+      "source": "NICE",
+      "filename": "NG38.pdf",
+      "path": "/home/exedev/eolas-guidelines/NICE/NG38.pdf",
+      "size_kb": 120,
+      "categories": [
+        "general"
+      ]
+    },
+    {
+      "id": "NG39",
+      "title": "NG39",
+      "source": "NICE",
+      "filename": "NG39.pdf",
+      "path": "/home/exedev/eolas-guidelines/NICE/NG39.pdf",
+      "size_kb": 138,
+      "categories": [
+        "general"
+      ]
+    },
+    {
+      "id": "NG40",
+      "title": "NG40",
+      "source": "NICE",
+      "filename": "NG40.pdf",
+      "path": "/home/exedev/eolas-guidelines/NICE/NG40.pdf",
+      "size_kb": 153,
+      "categories": [
+        "general"
+      ]
+    },
+    {
+      "id": "NG43",
+      "title": "NG43",
+      "source": "NICE",
+      "filename": "NG43.pdf",
+      "path": "/home/exedev/eolas-guidelines/NICE/NG43.pdf",
+      "size_kb": 195,
+      "categories": [
+        "general"
+      ]
+    },
+    {
+      "id": "NG45",
+      "title": "NG45",
+      "source": "NICE",
+      "filename": "NG45.pdf",
+      "path": "/home/exedev/eolas-guidelines/NICE/NG45.pdf",
+      "size_kb": 109,
+      "categories": [
+        "general"
+      ]
+    },
+    {
+      "id": "NG47",
+      "title": "NG47",
+      "source": "NICE",
+      "filename": "NG47.pdf",
+      "path": "/home/exedev/eolas-guidelines/NICE/NG47.pdf",
+      "size_kb": 147,
+      "categories": [
+        "general"
+      ]
+    },
+    {
+      "id": "NG48",
+      "title": "NG48",
+      "source": "NICE",
+      "filename": "NG48.pdf",
+      "path": "/home/exedev/eolas-guidelines/NICE/NG48.pdf",
+      "size_kb": 210,
+      "categories": [
+        "general"
+      ]
+    },
+    {
+      "id": "NG49",
+      "title": "NG49",
+      "source": "NICE",
+      "filename": "NG49.pdf",
+      "path": "/home/exedev/eolas-guidelines/NICE/NG49.pdf",
+      "size_kb": 107,
+      "categories": [
+        "general"
+      ]
+    },
+    {
+      "id": "NG50",
+      "title": "NG50",
+      "source": "NICE",
+      "filename": "NG50.pdf",
+      "path": "/home/exedev/eolas-guidelines/NICE/NG50.pdf",
+      "size_kb": 150,
+      "categories": [
+        "general"
+      ]
+    },
+    {
+      "id": "NG52",
+      "title": "NG52",
+      "source": "NICE",
+      "filename": "NG52.pdf",
+      "path": "/home/exedev/eolas-guidelines/NICE/NG52.pdf",
+      "size_kb": 168,
+      "categories": [
+        "general"
+      ]
+    },
+    {
+      "id": "NG53",
+      "title": "NG53",
+      "source": "NICE",
+      "filename": "NG53.pdf",
+      "path": "/home/exedev/eolas-guidelines/NICE/NG53.pdf",
+      "size_kb": 202,
+      "categories": [
+        "general"
+      ]
+    },
+    {
+      "id": "NG54",
+      "title": "NG54",
+      "source": "NICE",
+      "filename": "NG54.pdf",
+      "path": "/home/exedev/eolas-guidelines/NICE/NG54.pdf",
+      "size_kb": 195,
+      "categories": [
+        "general"
+      ]
+    },
+    {
+      "id": "NG55",
+      "title": "NG55",
+      "source": "NICE",
+      "filename": "NG55.pdf",
+      "path": "/home/exedev/eolas-guidelines/NICE/NG55.pdf",
+      "size_kb": 318,
+      "categories": [
+        "general"
+      ]
+    },
+    {
+      "id": "NG64",
+      "title": "NG64",
+      "source": "NICE",
+      "filename": "NG64.pdf",
+      "path": "/home/exedev/eolas-guidelines/NICE/NG64.pdf",
+      "size_kb": 312,
+      "categories": [
+        "general"
+      ]
+    },
+    {
+      "id": "NG94",
+      "title": "NG94",
+      "source": "NICE",
+      "filename": "NG94.pdf",
+      "path": "/home/exedev/eolas-guidelines/NICE/NG94.pdf",
+      "size_kb": 136,
+      "categories": [
+        "general"
+      ]
+    },
+    {
+      "id": "QS10",
+      "title": "QS10",
+      "source": "NICE",
+      "filename": "QS10.pdf",
+      "path": "/home/exedev/eolas-guidelines/NICE/QS10.pdf",
+      "size_kb": 188,
+      "categories": [
+        "general"
+      ]
+    },
+    {
+      "id": "QS103",
+      "title": "QS103",
+      "source": "NICE",
+      "filename": "QS103.pdf",
+      "path": "/home/exedev/eolas-guidelines/NICE/QS103.pdf",
+      "size_kb": 138,
+      "categories": [
+        "general"
+      ]
+    },
+    {
+      "id": "QS11",
+      "title": "QS11",
+      "source": "NICE",
+      "filename": "QS11.pdf",
+      "path": "/home/exedev/eolas-guidelines/NICE/QS11.pdf",
+      "size_kb": 163,
+      "categories": [
+        "general"
+      ]
+    },
+    {
+      "id": "QS12",
+      "title": "QS12",
+      "source": "NICE",
+      "filename": "QS12.pdf",
+      "path": "/home/exedev/eolas-guidelines/NICE/QS12.pdf",
+      "size_kb": 147,
+      "categories": [
+        "general"
+      ]
+    },
+    {
+      "id": "QS14",
+      "title": "QS14",
+      "source": "NICE",
+      "filename": "QS14.pdf",
+      "path": "/home/exedev/eolas-guidelines/NICE/QS14.pdf",
+      "size_kb": 168,
+      "categories": [
+        "general"
+      ]
+    },
+    {
+      "id": "QS15",
+      "title": "QS15",
+      "source": "NICE",
+      "filename": "QS15.pdf",
+      "path": "/home/exedev/eolas-guidelines/NICE/QS15.pdf",
+      "size_kb": 156,
+      "categories": [
+        "general"
+      ]
+    },
+    {
+      "id": "QS16",
+      "title": "QS16",
+      "source": "NICE",
+      "filename": "QS16.pdf",
+      "path": "/home/exedev/eolas-guidelines/NICE/QS16.pdf",
+      "size_kb": 137,
+      "categories": [
+        "general"
+      ]
+    },
+    {
+      "id": "QS165",
+      "title": "QS165",
+      "source": "NICE",
+      "filename": "QS165.pdf",
+      "path": "/home/exedev/eolas-guidelines/NICE/QS165.pdf",
+      "size_kb": 126,
+      "categories": [
+        "general"
+      ]
+    },
+    {
+      "id": "QS17",
+      "title": "QS17",
+      "source": "NICE",
+      "filename": "QS17.pdf",
+      "path": "/home/exedev/eolas-guidelines/NICE/QS17.pdf",
+      "size_kb": 191,
+      "categories": [
+        "general"
+      ]
+    },
+    {
+      "id": "QS174",
+      "title": "QS174",
+      "source": "NICE",
+      "filename": "QS174.pdf",
+      "path": "/home/exedev/eolas-guidelines/NICE/QS174.pdf",
+      "size_kb": 130,
+      "categories": [
+        "general"
+      ]
+    },
+    {
+      "id": "QS21",
+      "title": "QS21",
+      "source": "NICE",
+      "filename": "QS21.pdf",
+      "path": "/home/exedev/eolas-guidelines/NICE/QS21.pdf",
+      "size_kb": 112,
+      "categories": [
+        "general"
+      ]
+    },
+    {
+      "id": "QS22",
+      "title": "QS22",
+      "source": "NICE",
+      "filename": "QS22.pdf",
+      "path": "/home/exedev/eolas-guidelines/NICE/QS22.pdf",
+      "size_kb": 194,
+      "categories": [
+        "general"
+      ]
+    },
+    {
+      "id": "QS25",
+      "title": "QS25",
+      "source": "NICE",
+      "filename": "QS25.pdf",
+      "path": "/home/exedev/eolas-guidelines/NICE/QS25.pdf",
+      "size_kb": 155,
+      "categories": [
+        "general"
+      ]
+    },
+    {
+      "id": "QS76",
+      "title": "QS76",
+      "source": "NICE",
+      "filename": "QS76.pdf",
+      "path": "/home/exedev/eolas-guidelines/NICE/QS76.pdf",
+      "size_kb": 186,
+      "categories": [
+        "general"
+      ]
+    },
+    {
+      "id": "QS9",
+      "title": "QS9",
+      "source": "NICE",
+      "filename": "QS9.pdf",
+      "path": "/home/exedev/eolas-guidelines/NICE/QS9.pdf",
+      "size_kb": 173,
+      "categories": [
+        "general"
+      ]
+    },
+    {
+      "id": "TA1045",
+      "title": "TA1045",
+      "source": "NICE",
+      "filename": "TA1045.pdf",
+      "path": "/home/exedev/eolas-guidelines/NICE/TA1045.pdf",
+      "size_kb": 184,
+      "categories": [
+        "general"
+      ]
+    },
+    {
+      "id": "TA1049",
+      "title": "TA1049",
+      "source": "NICE",
+      "filename": "TA1049.pdf",
+      "path": "/home/exedev/eolas-guidelines/NICE/TA1049.pdf",
+      "size_kb": 135,
+      "categories": [
+        "general"
+      ]
+    },
+    {
+      "id": "TA1054",
+      "title": "TA1054",
+      "source": "NICE",
+      "filename": "TA1054.pdf",
+      "path": "/home/exedev/eolas-guidelines/NICE/TA1054.pdf",
+      "size_kb": 147,
+      "categories": [
+        "general"
+      ]
+    },
+    {
+      "id": "TA286",
+      "title": "TA286",
+      "source": "NICE",
+      "filename": "TA286.pdf",
+      "path": "/home/exedev/eolas-guidelines/NICE/TA286.pdf",
+      "size_kb": 44,
+      "categories": [
+        "general"
+      ]
+    },
+    {
+      "id": "TA893",
+      "title": "TA893",
+      "source": "NICE",
+      "filename": "TA893.pdf",
+      "path": "/home/exedev/eolas-guidelines/NICE/TA893.pdf",
+      "size_kb": 152,
+      "categories": [
+        "general"
+      ]
+    },
+    {
+      "id": null,
+      "title": "BTS CAP 2009",
+      "source": "BTS",
+      "filename": "BTS_CAP_2009.pdf",
+      "path": "/home/exedev/eolas-guidelines/BTS/BTS_CAP_2009.pdf",
+      "size_kb": 5032,
+      "categories": [
+        "general"
+      ]
+    },
+    {
+      "id": null,
+      "title": "BTS CAP QuickRef",
+      "source": "BTS",
+      "filename": "BTS_CAP_QuickRef.pdf",
+      "path": "/home/exedev/eolas-guidelines/BTS/BTS_CAP_QuickRef.pdf",
+      "size_kb": 122,
+      "categories": [
+        "general"
+      ]
+    },
+    {
+      "id": null,
+      "title": "BTS Emergency Oxygen",
+      "source": "BTS",
+      "filename": "BTS_Emergency_Oxygen.pdf",
+      "path": "/home/exedev/eolas-guidelines/BTS/BTS_Emergency_Oxygen.pdf",
+      "size_kb": 2071,
+      "categories": [
+        "respiratory"
+      ]
+    },
+    {
+      "id": null,
+      "title": "BTS Oxygen",
+      "source": "BTS",
+      "filename": "BTS_Oxygen.pdf",
+      "path": "/home/exedev/eolas-guidelines/BTS/BTS_Oxygen.pdf",
+      "size_kb": 2071,
+      "categories": [
+        "respiratory"
+      ]
+    },
+    {
+      "id": null,
+      "title": "BTS Pleural 2023",
+      "source": "BTS",
+      "filename": "BTS_Pleural_2023.pdf",
+      "path": "/home/exedev/eolas-guidelines/BTS/BTS_Pleural_2023.pdf",
+      "size_kb": 3520,
+      "categories": [
+        "respiratory"
+      ]
+    }
+  ]
+}
