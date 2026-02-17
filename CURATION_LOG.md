@@ -142,3 +142,70 @@ BTS_Emergency_Oxygen_2017.pdf
 - `index.json` - Searchable metadata
 - `metadata.json` - NICE scraping metadata
 - Various scraping scripts
+
+---
+
+## 2024-02-16: Quality Audit
+
+### NICE Collection Review
+- **Total downloaded**: 156 PDFs
+- **Page range**: 12-198 pages (appears to be full guidelines, not quick refs)
+- **Problem**: Many guidelines NOT relevant to Emergency Medicine
+
+### EM-Relevant Categories Identified:
+1. **Core ED presentations**: ACS, stroke, trauma, sepsis, anaphylaxis, head injury
+2. **Common ED conditions**: Fractures, infections, pain, respiratory
+3. **Mental health emergencies**: Self-harm, psychosis, delirium
+4. **Paediatric emergencies**: Fever, bronchiolitis, meningitis
+
+### Questionable/Non-EM Guidelines Found:
+- Cancer screening/management (breast, prostate, colorectal, lung)
+- Autism spectrum guidelines
+- Dementia management
+- Pregnancy management (unless emergency)
+- Rehabilitation guidelines
+- Service delivery/commissioning
+- Long-term condition management
+
+### Action Required:
+1. Create explicit EM-relevant list based on RCEM curriculum
+2. Re-scrape with tighter filtering
+3. Remove non-relevant guidelines from collection
+4. Better file naming with clinical category
+
+### NICE Collection Curated
+**Date**: 2024-02-16
+
+**Before**: 156 PDFs (39 MB)
+**After**: 71 PDFs (16 MB) 
+**Removed**: 85 non-EM-relevant guidelines
+
+**Curation Criteria**:
+- Core ED presentations (cardiac, neurological, trauma, respiratory)
+- Common ED conditions (infections, pain, mental health)
+- Paediatric emergencies
+- Antimicrobial prescribing guidelines
+
+**Removed categories**:
+- Cancer management (not ED acute care)
+- Autism/developmental disorders
+- Dementia/rehabilitation
+- Pregnancy management (kept only emergencies)
+- Prevention/screening programs
+- Service delivery guidelines
+- Incontinence (non-acute)
+
+**Key Guidelines Retained**:
+- NG185: Acute coronary syndromes
+- NG128: Stroke and TIA
+- NG232: Head injury
+- NG39-41: Major trauma, spinal injury
+- NG253-255: Sepsis (all age groups)
+- NG240: Meningitis
+- CG134: Anaphylaxis
+- NG37-38: Fractures
+- NG245: Asthma
+- NG114: COPD exacerbation
+- NG225: Self-harm
+- NG143: Fever in under 5s
+- CG50: Acutely ill adults
